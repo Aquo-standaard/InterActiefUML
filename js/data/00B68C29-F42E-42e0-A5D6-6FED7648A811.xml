@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.37.1.2.1", "", "Diagrams", "", "4.png", "", "", "{2C194861-7658-46b7-9BCF-54669B909E63}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.2.2", "", "Extra diagrams (FI32)", "", "4.png", "", "", "{9FAAB78E-BE43-4008-BC42-4AA6714068CB}", "Package");

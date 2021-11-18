@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.1", "", "Aid Application Register", "", "4.png", "", "", "{EE0866A3-4650-48dc-937F-886D39ABCBE3}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.2", "", "Cross Compliance", "", "4.png", "", "", "{F20D571C-8715-44b6-8FF6-5117EF1220BC}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.3", "", "Entitlements Register", "", "4.png", "", "", "{C1A43FE8-435B-4597-92DA-27F39776DC75}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.4", "", "Farmers Register", "", "4.png", "", "", "{E3CCABAD-DF76-4ccd-A0BC-AFF6BF892825}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.5", "", "LPIS", "", "4.png", "", "", "{524C09DE-63DD-4282-97A4-5378ADAAF373}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.6", "", "Other figures", "", "4.png", "", "", "{2D4607FE-FA69-41f2-BECC-B5FB797DC81C}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.7", "", "Figures in DIS", "", "4.png", "", "", "{CF2F7D97-63EE-4164-B3B0-7E64141F2977}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.8", "", "IACS/LPIS", "", "4.png", "", "", "{0D557A5B-6815-4f12-A6D1-B904D1DF773F}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.9", "", "LADM_IACS/LPIS InstanceLevel", "", "4.png", "", "", "{C4ACE1EF-44BB-49e6-9616-65F4FE40D6C4}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.7.1.10", "", "SubPARCEL", "", "4.png", "", "", "{E7E7FA1F-02D5-4fe7-B363-3733D9339D12}", "Package");

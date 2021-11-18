@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.38.6.1", "", "Norwegian Land Information Spatial Schema", "", "4.png", "", "", "{BC99DACB-B9C2-4c43-989E-31705C224AA7}", "Package");
+tocTab[tocTab.length] = new Array("0.4.38.6.2", "", "PBLSchema", "", "4.png", "", "", "{D70A339C-F958-46f5-B382-61B916C38A8B}", "Package");

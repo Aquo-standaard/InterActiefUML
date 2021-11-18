@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.4.11.1", "", "Coordinate Operations", "", "4.png", "", "", "{B41E250A-E9C2-47ae-AF8A-69C675835EEB}", "Package");
+tocTab[tocTab.length] = new Array("0.4.11.2", "", "Coordinate Reference Systems", "", "4.png", "", "", "{4CCA7E50-B372-4864-88CF-EAF375CB5184}", "Package");
+tocTab[tocTab.length] = new Array("0.4.11.3", "", "Coordinate Systems", "", "4.png", "", "", "{BC63145C-6B57-4e78-9CFD-7419C46487AF}", "Package");
+tocTab[tocTab.length] = new Array("0.4.11.4", "", "Datums", "", "4.png", "", "", "{66594F00-9D5C-476e-916B-CCBB28BA720E}", "Package");
+tocTab[tocTab.length] = new Array("0.4.11.5", "", "Identified Objects", "", "4.png", "", "", "{C54B5CF4-080B-4efb-A1EB-36468BF447AA}", "Package");
+tocTab[tocTab.length] = new Array("0.4.11.6", "", "Reference Systems", "", "4.png", "", "", "{80A293C0-AB29-4b69-9764-19E390718B37}", "Package");
+tocTab[tocTab.length] = new Array("0.4.11.7", "", "Temporal Reference Systems", "", "4.png", "", "", "{BF8B858F-1D65-4001-AD7A-34269F50DF74}", "Package");

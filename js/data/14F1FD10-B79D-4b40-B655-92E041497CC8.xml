@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.26.2.1", "", "Cost Function", "", "4.png", "", "", "{259DEF17-7582-435a-9E4B-A4CD4F685035}", "Package");
+tocTab[tocTab.length] = new Array("0.4.26.2.2", "", "Navigation Service", "", "4.png", "", "", "{156E44FB-046B-4ea7-92A6-6E04C33B3B4C}", "Package");
+tocTab[tocTab.length] = new Array("0.4.26.2.3", "", "Preferences", "", "4.png", "", "", "{DB910780-D7B3-4ad0-B9A8-5264AE9FC5BC}", "Package");

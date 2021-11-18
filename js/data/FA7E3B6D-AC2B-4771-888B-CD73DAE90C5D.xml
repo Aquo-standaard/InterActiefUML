@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.24.4.1", "", "Specification Coverages and Images", "", "4.png", "", "", "{F735866E-2FA4-4f5c-B891-DB0B02D66D62}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.4.2", "", "Specification Feature Based Information", "", "4.png", "", "", "{A966ACBD-5539-4859-AF4F-B1814183DC7E}", "Package");

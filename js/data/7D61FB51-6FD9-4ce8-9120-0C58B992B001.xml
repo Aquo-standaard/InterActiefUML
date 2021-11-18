@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.4.33.2.1.1", "", "LC_LandCoverClassStructure", "", "4.png", "", "", "{395A170A-A2AB-4cc4-9EB9-66B1117636BD}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.2", "", "LC_Vegetation", "", "4.png", "", "", "{0A37D99C-8BBF-4c80-87D8-1A43C515F4BD}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.3", "", "LC_Abiotic", "", "4.png", "", "", "{F1495FFA-5F3C-4b90-80DE-7E4B701F09D7}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.4", "", "LC_ClassCharacteristics", "", "4.png", "", "", "{7D3CB564-F6E9-447c-ACBF-9331C4C1BD6A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.5", "", "LC_ElementCharacteristics", "", "4.png", "", "", "{7C52666D-A147-413b-B39C-69BE54C68C29}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.6", "", "LC_MetaValueTypes", "", "4.png", "", "", "{BD073C29-4FC6-4714-9EF2-B41442815DBB}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.7", "", "LC_Registers", "", "4.png", "", "", "{5FA97E4D-94AB-4a21-82A3-E557482D8689}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.8", "", "Relationship to GFM", "", "4.png", "", "", "{2933638E-BCA3-4e7e-B61F-6E02EBA88065}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2.1.9", "", "LCML_Examples", "", "4.png", "", "", "{8EB27B09-FCFF-45cc-BDAD-94EFCB78035E}", "Package");

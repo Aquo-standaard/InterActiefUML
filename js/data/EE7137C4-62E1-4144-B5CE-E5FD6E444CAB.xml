@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.33.1", "", "ISO 19144-1 Classification Systems", "", "4.png", "", "", "{D5F4FCC0-C764-4814-993C-1383E40D1A05}", "Package");
+tocTab[tocTab.length] = new Array("0.4.33.2", "1", "ISO 19144-2 Land Cover", "", "4.png", "", "", "{287FCC52-B56C-4200-A115-0ABEF3909B96}", "Package");

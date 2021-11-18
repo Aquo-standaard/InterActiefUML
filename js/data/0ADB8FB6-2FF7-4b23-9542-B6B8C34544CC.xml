@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.41.1.2.1", "1", "DQ_Data quality", "", "4.png", "", "", "{82BDC54E-1DB8-40bc-B46B-0F35B6E44573}", "Package");
+tocTab[tocTab.length] = new Array("0.4.41.1.2.2", "", "DQM_Data quality measures", "", "4.png", "", "", "{1F7CF4A1-7B54-4cd0-9ED0-5A6EAA61B587}", "Package");

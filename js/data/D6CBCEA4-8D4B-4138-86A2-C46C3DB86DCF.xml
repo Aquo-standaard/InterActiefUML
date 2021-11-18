@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.2:1", "", "«Codelijst» AandrijvingPomp", "EARoot/EA1/EA2/EA1/EA2/EA290.htm", "230.png", "E16375", "0", "", "DataType0","{6585b17c-ee25-4304-b7d2-86cf74efaa80}");
+tocTab[tocTab.length] = new Array("0.1.2.1.2:2", "", "«Codelijst» Afsluitmiddel_Functie", "EARoot/EA1/EA2/EA1/EA2/EA291.htm", "230.png", "E16374", "0", "", "DataType0","{4a09e6be-01c6-40f3-bf57-df0b3c32fff3}");
+tocTab[tocTab.length] = new Array("0.1.2.1.2:3", "", "«Codelijst» DijkkernType", "EARoot/EA1/EA2/EA1/EA2/EA292.htm", "230.png", "E16376", "0", "", "DataType0","{93c3d3d8-f8c8-48b9-87db-de00fdd4aeca}");
+tocTab[tocTab.length] = new Array("0.1.2.1.2:4", "", "«Codelijst» Kunstwerk_Functie", "EARoot/EA1/EA2/EA1/EA2/EA293.htm", "230.png", "E16377", "0", "", "DataType0","{a893d731-60b3-4ca2-b8e3-c9f34a5f59f3}");

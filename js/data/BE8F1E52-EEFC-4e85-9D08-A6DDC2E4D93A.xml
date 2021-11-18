@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4.7.1.1.1", "", "Coordinate geometry", "", "4.png", "", "", "{F6124016-2DF1-454b-8DD8-33975170E6A3}", "Package");
+tocTab[tocTab.length] = new Array("0.4.7.1.1.2", "", "Geometric aggregates", "", "4.png", "", "", "{B20C7FAC-15A5-4c7d-96F2-185C89C6B18B}", "Package");
+tocTab[tocTab.length] = new Array("0.4.7.1.1.3", "", "Geometric complex", "", "4.png", "", "", "{486774CB-4E8D-4d82-BDEB-93C2E74BC415}", "Package");
+tocTab[tocTab.length] = new Array("0.4.7.1.1.4", "", "Geometric primitive", "", "4.png", "", "", "{5BA4E1D8-85FE-4c3c-9084-071399936FC4}", "Package");
+tocTab[tocTab.length] = new Array("0.4.7.1.1.5", "", "Geometry root", "", "4.png", "", "", "{3CA310BC-C245-4777-85AA-AB57A41A0890}", "Package");

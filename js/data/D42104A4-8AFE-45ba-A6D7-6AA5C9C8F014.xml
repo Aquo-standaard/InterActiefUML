@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4.38.4.1", "", "Area of Interest", "", "4.png", "", "", "{EA052408-8C24-4667-ABEA-BE40A9906B9B}", "Package");
+tocTab[tocTab.length] = new Array("0.4.38.4.2", "", "Directory", "", "4.png", "", "", "{3A4EC1F5-EE11-459e-BFA7-F58B4026843D}", "Package");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.31.1", "1", "Catalogues", "", "4.png", "", "", "{E4C0258C-3CF3-4cae-917E-089CC75D2015}", "Package");
+tocTab[tocTab.length] = new Array("0.4.31.2", "", "Cultural and linguistic adapdability", "", "4.png", "", "", "{5E36D833-1A3A-486e-B93C-123E8B49C8CB}", "Package");
+tocTab[tocTab.length] = new Array("0.4.31.3", "", "Metadata-based transfers of geospatial information", "", "4.png", "", "", "{BF3616A7-F095-403c-B068-DD3E17EF8661}", "Package");
+tocTab[tocTab.length] = new Array("0.4.31.4", "", "Web environment", "", "4.png", "", "", "{4F141BCA-35D0-44f5-95A2-B1A7EBE2C7C2}", "Package");

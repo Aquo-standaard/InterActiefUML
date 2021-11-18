@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.1.2.8:1", "", "IMWA-Normen - detail", "EARoot/EA1/EA2/EA8/EA549.htm", "175.png", "7043", "0", "", "Logical diagram0","{BFC50795-58B0-4dd2-BFA2-6D199D826034}");
+tocTab[tocTab.length] = new Array("0.1.2.8:2", "", "«Objecttype» KwaliteitsNorm", "EARoot/EA1/EA2/EA8/EA554.htm", "5.png", "E16558", "0", "", "Class0","{34786A2B-765C-41b9-B1CE-49F865FDDB70}");
+tocTab[tocTab.length] = new Array("0.1.2.8:3", "", "«Objecttype» KwantiteitsNorm", "EARoot/EA1/EA2/EA8/EA555.htm", "5.png", "E16566", "0", "", "Class0","{978DB141-B15F-49b5-877C-E9D999825ACA}");
+tocTab[tocTab.length] = new Array("0.1.2.8:4", "", "«Objecttype» KwaliteitsNormBiologie", "EARoot/EA1/EA2/EA8/EA556.htm", "5.png", "E16562", "0", "", "Class0","{6FC54234-5608-4480-9AA8-B2D2CD7CED5D}");
+tocTab[tocTab.length] = new Array("0.1.2.8:5", "", "«Objecttype» KwaliteitsNormChemie", "EARoot/EA1/EA2/EA8/EA557.htm", "5.png", "E16557", "0", "", "Class0","{336AAE49-5FF6-4975-A839-6F0295A78619}");
+tocTab[tocTab.length] = new Array("0.1.2.8:6", "", "«Objecttype» LozingsNorm", "EARoot/EA1/EA2/EA8/EA558.htm", "5.png", "E16569", "0", "", "Class0","{C95DDCBC-01AF-49b1-B310-039AB107405D}");
+tocTab[tocTab.length] = new Array("0.1.2.8:7", "", "«Objecttype» Norm", "EARoot/EA1/EA2/EA8/EA559.htm", "5.png", "E16556", "0", "", "Class0","{2CB1B834-2104-4fb1-B530-B55E879D8076}");
+tocTab[tocTab.length] = new Array("0.1.2.8:8", "", "«Objecttype» NormBereik", "EARoot/EA1/EA2/EA8/EA560.htm", "5.png", "E16554", "0", "", "Class0","{1E642379-A5C2-4931-AE25-3835D0B79ABE}");
+tocTab[tocTab.length] = new Array("0.1.2.8:9", "", "«Objecttype» NormKader", "EARoot/EA1/EA2/EA8/EA561.htm", "5.png", "E16560", "0", "", "Class0","{3EF78924-347A-407a-96A5-84C2E5965825}");
+tocTab[tocTab.length] = new Array("0.1.2.8:10", "", "«Objecttype» NormPakket", "EARoot/EA1/EA2/EA8/EA562.htm", "5.png", "E16559", "0", "", "Class0","{358073C6-EF10-47a0-8FD4-F5D4F45E130D}");
+tocTab[tocTab.length] = new Array("0.1.2.8:11", "", "«Objecttype» NormProces", "EARoot/EA1/EA2/EA8/EA563.htm", "5.png", "E16565", "0", "", "Class0","{8EDB2377-B3EF-4528-B89B-E0FC8D8393D7}");
+tocTab[tocTab.length] = new Array("0.1.2.8:12", "", "«Objecttype» WaterveiligheidsNorm", "EARoot/EA1/EA2/EA8/EA564.htm", "5.png", "E16564", "0", "", "Class0","{831C782E-C895-4e82-9839-2ADCDA827AEF}");
+tocTab[tocTab.length] = new Array("0.1.2.8:13", "", "«Objecttype» VeiligheidsNorm", "EARoot/EA1/EA2/EA8/EA565.htm", "5.png", "E16553", "0", "", "Class0","{1273A58C-6445-4087-8EDE-7C2300C92BCD}");
+tocTab[tocTab.length] = new Array("0.1.2.8:14", "", "«Relatieklasse» NormRelatie", "EARoot/EA1/EA2/EA8/EA566.htm", "5.png", "E16555", "0", "", "Class0","{2456CAB3-3529-45a3-8DFF-13EEE3CCC6EB}");
+tocTab[tocTab.length] = new Array("0.1.2.8:15", "", "«Objecttype» VergunningOvereenkomst", "EARoot/EA1/EA2/EA8/EA567.htm", "5.png", "E16567", "0", "", "Class0","{A0C6E147-3172-411b-81E9-6A4624DAF913}");
+tocTab[tocTab.length] = new Array("0.1.2.8:16", "", "«Gestructureerd datatype» NormTypeDataType", "EARoot/EA1/EA2/EA8/EA568.htm", "230.png", "E16552", "0", "", "DataType0","{117B7B8F-E622-4420-A981-D42BD354BB48}");
+tocTab[tocTab.length] = new Array("0.1.2.8:17", "", "«Gestructureerd datatype» NumeriekeToetsWaarde", "EARoot/EA1/EA2/EA8/EA569.htm", "230.png", "E16563", "0", "", "DataType0","{750B771E-E9A5-4db1-883B-BD78BA87A924}");

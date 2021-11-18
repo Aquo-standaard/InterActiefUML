@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.4.37.1.3.7.2.1", "", "Adressen (BAG)", "", "4.png", "", "", "{DDD7D9EF-A13E-4c45-94FA-D30518E64CD0}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.3.7.2.2", "", "IMKAD onderdelen", "", "4.png", "", "", "{1C9700DD-322D-4212-9F64-75FCA7FD604A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.3.7.2.3", "", "IMKAD SimpleTypes", "", "4.png", "", "", "{66154C32-EF7C-4885-8C1B-360341275DC4}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.3.7.2.4", "", "Ingezetenen (GBA)", "", "4.png", "", "", "{CA9EE692-343A-4f3f-A362-958A390093A2}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.3.7.2.5", "", "NietIngezetenen (RNI)", "", "4.png", "", "", "{105BE40E-8BD1-434d-A271-95AF77600FED}", "Package");
+tocTab[tocTab.length] = new Array("0.4.37.1.3.7.2.6", "", "Rechtspersonen", "", "4.png", "", "", "{2155C1BB-6811-42bd-9998-09450E063A32}", "Package");

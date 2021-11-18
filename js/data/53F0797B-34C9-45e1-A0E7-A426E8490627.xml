@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4.14.1.1", "", "Metadata Entity Set - Imagery", "", "4.png", "", "", "{03F2B2F3-CAFE-49bc-8C84-BDA61CF75CEE}", "Package");
+tocTab[tocTab.length] = new Array("0.4.14.1.2", "", "Data quality information - Imagery", "", "4.png", "", "", "{4A8253EB-1DE9-4d23-8142-F357BCE75580}", "Package");
+tocTab[tocTab.length] = new Array("0.4.14.1.3", "", "Spatial representation information - Imagery", "", "4.png", "", "", "{30BAA457-B68D-4fd7-A5A1-0CC91CA51DDE}", "Package");
+tocTab[tocTab.length] = new Array("0.4.14.1.4", "", "Content information - Imagery", "", "4.png", "", "", "{D7D90805-F5B4-48d4-99F4-9A67D04ACEDC}", "Package");
+tocTab[tocTab.length] = new Array("0.4.14.1.5", "", "Acquisition information - Imagery", "", "4.png", "", "", "{1C13E07E-C135-4c4b-8FDA-587C1909FF42}", "Package");

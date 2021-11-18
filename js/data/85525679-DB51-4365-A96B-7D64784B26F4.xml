@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.4.24.1", "", "Data Product Specification", "", "4.png", "", "", "{5A6EC82C-E686-4763-AC6E-0D7F650B11FE}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.2", "", "DPS", "", "4.png", "", "", "{93BB3BBC-7DBB-42e2-8409-C49D6FED9763}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.3", "", "Specification Additional Information", "", "4.png", "", "", "{476F1BD6-85CE-4674-B139-AC86556B03FA}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.4", "1", "Specification Content and Structure", "", "4.png", "", "", "{FA7E3B6D-AC2B-4771-888B-CD73DAE90C5D}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.5", "", "Specification Data Capture Information", "", "4.png", "", "", "{7B0B61DB-37BE-4042-9FD9-46FFB96176B0}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.6", "", "Specification Data Quality Requirement", "", "4.png", "", "", "{15266799-A363-4027-9A39-0604708AAE4D}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.7", "", "Specification Delivery Information", "", "4.png", "", "", "{B115E4FC-783F-442c-B1BE-255EB0D1B1EC}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.8", "", "Specification Identification", "", "4.png", "", "", "{C837ABCF-68ED-4eca-8C9E-E7556676B8FD}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.9", "", "Specification Maintenance Information", "", "4.png", "", "", "{2BAA85B8-0488-489a-ACCD-E11607B3A7D6}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.10", "", "Specification Portrayal Information", "", "4.png", "", "", "{07BDD1FD-C557-447b-B2F6-6B04ABEB983A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.11", "", "Specification Reference System", "", "4.png", "", "", "{AC8D064A-579F-4694-9833-A452333906B6}", "Package");
+tocTab[tocTab.length] = new Array("0.4.24.12", "", "Specification Scopes", "", "4.png", "", "", "{1163CE29-4A1F-4878-851F-21A9832AF2CB}", "Package");

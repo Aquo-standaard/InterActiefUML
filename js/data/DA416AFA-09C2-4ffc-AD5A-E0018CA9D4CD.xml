@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.6.1.4.11:1", "", "Transportation", "EARoot/EA6/EA1/EA4/EA11/EA971.htm", "175.png", "7020", "0", "", "Logical diagram0","{5280CA77-A7E1-42cf-B511-A15620781FEB}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:2", "", "«featureType» _TransportationObject", "EARoot/EA6/EA1/EA4/EA11/EA974.htm", "5.png", "E16018", "0", "", "Class0","{613689B3-97E7-484f-ABDD-2C38471E6E17}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:3", "", "«featureType» AuxiliaryTrafficArea", "EARoot/EA6/EA1/EA4/EA11/EA975.htm", "5.png", "E16020", "0", "", "Class0","{AD1DA2F3-C4E0-458a-A91B-81CE0CF5E759}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:4", "", "«codeList» AuxiliaryTrafficAreaFunctionType", "EARoot/EA6/EA1/EA4/EA11/EA976.htm", "247.png", "E16022", "0", "", "Enumeration0","{DAC6F6E6-62E2-4407-BA3F-E030D69A99BF}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:5", "", "«featureType» Railway", "EARoot/EA6/EA1/EA4/EA11/EA977.htm", "5.png", "E16017", "0", "", "Class0","{5847C54C-A287-4d7c-9A68-B64461259F96}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:6", "", "«featureType» Road", "EARoot/EA6/EA1/EA4/EA11/EA978.htm", "5.png", "E16009", "0", "", "Class0","{0874DC44-6020-423f-9000-66AE2A0CADC6}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:7", "", "«featureType» Square", "EARoot/EA6/EA1/EA4/EA11/EA979.htm", "5.png", "E16010", "0", "", "Class0","{0CE60285-B67E-4d93-ACF1-953BB4B6642F}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:8", "", "«featureType» Track", "EARoot/EA6/EA1/EA4/EA11/EA980.htm", "5.png", "E16021", "0", "", "Class0","{C2450ADE-3E3C-4a87-8910-5CACEF903234}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:9", "", "«featureType» TrafficArea", "EARoot/EA6/EA1/EA4/EA11/EA981.htm", "5.png", "E16016", "0", "", "Class0","{49F12634-DADA-4128-A0D2-29C5E037F742}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:10", "", "«codeList» TrafficAreaFunctionType", "EARoot/EA6/EA1/EA4/EA11/EA982.htm", "247.png", "E16013", "0", "", "Enumeration0","{29DC4CA8-E267-4701-80F5-74CC9F6DA270}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:11", "", "«codeList» TrafficAreaUsageType", "EARoot/EA6/EA1/EA4/EA11/EA983.htm", "247.png", "E16015", "0", "", "Enumeration0","{36ECCBD9-BC9C-4759-941F-258A49B0E57F}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:12", "", "«codeList» TrafficSurfaceMaterialType", "EARoot/EA6/EA1/EA4/EA11/EA984.htm", "247.png", "E16019", "0", "", "Enumeration0","{687C854D-632D-4c57-845E-2CF9F70E676A}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:13", "", "«featureType» TransportationComplex", "EARoot/EA6/EA1/EA4/EA11/EA985.htm", "5.png", "E16011", "0", "", "Class0","{249FA7EF-17B3-4499-9C17-510E08AF653F}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:14", "", "«codeList» TransportationComplexFunctionType", "EARoot/EA6/EA1/EA4/EA11/EA986.htm", "247.png", "E16014", "0", "", "Enumeration0","{30C4F51E-2806-4acf-A5DA-90C29DDD6258}");
+tocTab[tocTab.length] = new Array("0.6.1.4.11:15", "", "«codeList» TransportationComplexUsageType", "EARoot/EA6/EA1/EA4/EA11/EA987.htm", "247.png", "E16012", "0", "", "Enumeration0","{284E8648-8872-4969-B2B0-F123FA288173}");
