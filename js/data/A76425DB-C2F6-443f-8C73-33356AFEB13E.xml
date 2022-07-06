@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "«Interface» Boolean", "EARoot/EA1/EA3/EA121.htm", "230.png", "E37105", "0", "", "DataType0","{70FBDB70-4B81-46ab-97BB-058195812ECB}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "«Interface» CharacterString", "EARoot/EA1/EA3/EA122.htm", "230.png", "E37098", "0", "", "DataType0","{18BFBA8D-E3F4-4d8c-9A8F-4429FA54B041}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "«interface» Date", "EARoot/EA1/EA3/EA123.htm", "230.png", "E37101", "0", "", "DataType0","{3E6F5023-BF71-4da0-8747-0B8D334A8D04}");
+tocTab[tocTab.length] = new Array("0.1.3:4", "", "«Interface» DateTime", "EARoot/EA1/EA3/EA124.htm", "230.png", "E37099", "0", "", "DataType0","{366435A3-6E41-4add-A833-21873B97D7C7}");
+tocTab[tocTab.length] = new Array("0.1.3:5", "", "«Interface» Day", "EARoot/EA1/EA3/EA125.htm", "230.png", "E37102", "0", "", "DataType0","{427C0973-E12D-47f8-A326-AACBADEE5AE6}");
+tocTab[tocTab.length] = new Array("0.1.3:6", "", "«Interface» Decimal", "EARoot/EA1/EA3/EA126.htm", "230.png", "E37103", "0", "", "DataType0","{4B14AA67-7035-465b-B4A5-AACAB944175E}");
+tocTab[tocTab.length] = new Array("0.1.3:7", "", "«Interface» Integer", "EARoot/EA1/EA3/EA127.htm", "230.png", "E37107", "0", "", "DataType0","{F38912FB-7856-4a9d-AF96-CB2238371C04}");
+tocTab[tocTab.length] = new Array("0.1.3:8", "", "«Interface» Month", "EARoot/EA1/EA3/EA128.htm", "230.png", "E37108", "0", "", "DataType0","{FC8CFD1F-45A2-4507-90DA-82453E61834B}");
+tocTab[tocTab.length] = new Array("0.1.3:9", "", "«Interface» Real", "EARoot/EA1/EA3/EA129.htm", "230.png", "E37100", "0", "", "DataType0","{3C4BBF7A-20EC-4a62-A172-F00A6D73FD5E}");
+tocTab[tocTab.length] = new Array("0.1.3:10", "", "«Interface» URI", "EARoot/EA1/EA3/EA130.htm", "230.png", "E37106", "0", "", "DataType0","{DAB6A78C-1FE9-4ecf-9DB3-45B541679D62}");
+tocTab[tocTab.length] = new Array("0.1.3:11", "", "«Interface» Year", "EARoot/EA1/EA3/EA131.htm", "230.png", "E37104", "0", "", "DataType0","{4DA242C6-3972-4f1e-86F0-BBB8046F4BC9}");

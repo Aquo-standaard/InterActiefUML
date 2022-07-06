@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.5.23.2.11:1", "", "Fig 12 - Raster Digitised Product", "EARoot/EA5/EA23/EA2/EA11/EA5321.htm", "175.png", "13477", "0", "", "Logical diagram0","{F50C7EF5-2CF2-42d0-BB4F-699E053652D6}");
+tocTab[tocTab.length] = new Array("0.5.23.2.11:2", "", "SD_DetectorArray", "EARoot/EA5/EA23/EA2/EA11/EA5324.htm", "5.png", "E33336", "0", "", "Class0","{B28C5FC0-7BF4-4c6b-8062-26C86FE84702}");
+tocTab[tocTab.length] = new Array("0.5.23.2.11:3", "", "SD_Film", "EARoot/EA5/EA23/EA2/EA11/EA5325.htm", "5.png", "E33334", "0", "", "Class0","{301391B6-74DE-4ff4-A06A-62FBC855F31F}");
+tocTab[tocTab.length] = new Array("0.5.23.2.11:4", "", "«Abstract» SD_Hardcopy", "EARoot/EA5/EA23/EA2/EA11/EA5326.htm", "5.png", "E33335", "0", "", "Class0","{A425225F-828D-4ad0-B4AF-E95B85565E41}");
+tocTab[tocTab.length] = new Array("0.5.23.2.11:5", "", "SD_Paper", "EARoot/EA5/EA23/EA2/EA11/EA5327.htm", "5.png", "E33333", "0", "", "Class0","{03194A71-5041-49a6-9787-7FD8CBF64BEE}");
+tocTab[tocTab.length] = new Array("0.5.23.2.11:6", "", "SD_RasterDigitisedProduct", "EARoot/EA5/EA23/EA2/EA11/EA5328.htm", "5.png", "E33337", "0", "", "Class0","{E6FBD7BC-4C55-478b-BC1E-81691E25753C}");

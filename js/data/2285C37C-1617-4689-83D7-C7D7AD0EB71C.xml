@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.1.2:1", "", "Complex Datatype", "EARoot/EA1/EA1/EA1/EA2/EA28.htm", "175.png", "14832", "0", "", "Logical diagram0","{50096FB3-9E70-47c6-BF85-69A6A0565228}");
+tocTab[tocTab.length] = new Array("0.1.1.1.2:2", "", "«Interface» DatumOnvolledig", "EARoot/EA1/EA1/EA1/EA2/EA31.htm", "230.png", "E37031", "0", "", "DataType0","{CA4FE958-41BF-4cdc-9A22-A14AC2DE1CD2}");
+tocTab[tocTab.length] = new Array("0.1.1.1.2:3", "", "«Interface» GeoJsonGeometrie", "EARoot/EA1/EA1/EA1/EA2/EA32.htm", "230.png", "E37030", "0", "", "DataType0","{41DFCEB7-A11B-4dd8-84AA-200498B234E2}");
+tocTab[tocTab.length] = new Array("0.1.1.1.2:4", "", "«Interface» NEN3610ID", "EARoot/EA1/EA1/EA1/EA2/EA33.htm", "230.png", "E37029", "0", "", "DataType0","{226A0B90-D5C2-4573-BA71-BC8FD8BE58FD}");

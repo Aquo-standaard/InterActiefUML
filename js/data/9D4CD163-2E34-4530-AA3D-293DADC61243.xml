@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.1.4.12:1", "", "Tunnel", "EARoot/EA7/EA1/EA4/EA12/EA11824.htm", "175.png", "14821", "0", "", "Logical diagram0","{78C807FE-9DF9-4861-BCB5-1E5997B9DBB0}");
+tocTab[tocTab.length] = new Array("0.7.1.4.12:2", "", "«featureType» _AbstractTunnel", "EARoot/EA7/EA1/EA4/EA12/EA11827.htm", "5.png", "E36836", "0", "", "Class0","{491FBC48-9751-401f-81E7-ECFF09BA1436}");
+tocTab[tocTab.length] = new Array("0.7.1.4.12:3", "", "«featureType» Tunnel", "EARoot/EA7/EA1/EA4/EA12/EA11828.htm", "5.png", "E36838", "0", "", "Class0","{C4E221E0-7AB0-47a9-A5DB-5E5259D3EDDF}");
+tocTab[tocTab.length] = new Array("0.7.1.4.12:4", "", "«featureType» TunnelPart", "EARoot/EA7/EA1/EA4/EA12/EA11829.htm", "5.png", "E36837", "0", "", "Class0","{B469762C-F9D6-409c-9871-F38E7B2EBC98}");

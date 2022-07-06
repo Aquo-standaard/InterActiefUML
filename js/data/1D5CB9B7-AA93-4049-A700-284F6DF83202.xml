@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.5.32:1", "", "Class Hierarchy", "EARoot/EA5/EA32/EA7283.htm", "175.png", "14142", "0", "", "Logical diagram0","{0D458C59-2ED4-425a-8B64-13B8B0744DE7}");
+tocTab[tocTab.length] = new Array("0.5.32:2", "", "Context Diagram: Package Clients of Geometry Types", "EARoot/EA5/EA32/EA7285.htm", "175.png", "14144", "0", "", "Logical diagram0","{404D38F9-8673-4687-81AD-536DC4288E75}");
+tocTab[tocTab.length] = new Array("0.5.32:3", "", "Context Diagram: Package Clients of Prism Geometry", "EARoot/EA5/EA32/EA7287.htm", "175.png", "14146", "0", "", "Logical diagram0","{66C891C0-061B-43d7-830A-9C51FED47B73}");
+tocTab[tocTab.length] = new Array("0.5.32:4", "", "Context Diagram: Package Suppliers of Geometry Types", "EARoot/EA5/EA32/EA7289.htm", "175.png", "14143", "0", "", "Logical diagram0","{4B17DD7A-7775-426e-81D0-B92349CEDED7}");
+tocTab[tocTab.length] = new Array("0.5.32:5", "", "Context Diagram: Package Suppliers of Prism Geometry", "EARoot/EA5/EA32/EA7291.htm", "175.png", "14145", "0", "", "Logical diagram0","{5F732411-9C75-4cdd-A911-3DE48B608C73}");
+tocTab[tocTab.length] = new Array("0.5.32:6", "", "Main", "EARoot/EA5/EA32/EA7293.htm", "175.png", "14141", "0", "", "Logical diagram0","{9FCDB717-327A-4a11-B4F2-5BCDB29D0F98}");
+tocTab[tocTab.length] = new Array("0.5.32.1", "1", "Geometry Types", "EARoot/EA5/EA32/EA1/EA7318.htm", "4.png", "", "", "{EB943DC1-9466-44e1-80D3-7B653F3F917E}", "Package");
+tocTab[tocTab.length] = new Array("0.5.32.2", "1", "Prism Geometry", "EARoot/EA5/EA32/EA2/EA7344.htm", "4.png", "", "", "{501C5BEC-97EB-4901-A495-DF19D7923061}", "Package");

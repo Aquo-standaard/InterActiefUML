@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:1", "", "DQM Data quality measures", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11105.htm", "175.png", "14727", "0", "", "Logical diagram0","{405FA5C6-9132-4f7a-8F51-AF9E81E4BB46}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:2", "", "DQM Data quality measures registration", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11107.htm", "175.png", "14728", "0", "", "Logical diagram0","{13775D4C-9FB1-4fd8-9A09-B1965716DC0F}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:3", "", "DQM_BasicMeasure", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11111.htm", "5.png", "E36381", "0", "", "Class0","{3EB1CE28-F924-42af-9650-406EAC50AAC6}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:4", "", "«Datatype» DQM_Description", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11112.htm", "5.png", "E36383", "0", "", "Class0","{8DCD660D-6F44-480d-A51C-AECDAFF33F0E}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:5", "", "DQM_Measure", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11113.htm", "5.png", "E36388", "0", "", "Class0","{E7E9BAD7-05CF-4b54-BA0F-A16816145786}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:6", "", "DQM_MeasureCatalogue::CT_Catalogue", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11114.htm", "5.png", "E36389", "0", "", "Class0","{EDE20A98-2FF1-4d14-A5FF-B7C8EA9B3097}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:7", "", "DQM_Parameter", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11115.htm", "5.png", "E36379", "0", "", "Class0","{0806DBB5-EE37-4ab7-AAA3-097048378147}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:8", "", "DQM_RegisteredDataQualityBasicMeasure", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11116.htm", "5.png", "E36384", "0", "", "Class0","{9647B5CC-C863-4a98-9DA7-3099BA12EA68}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:9", "", "DQM_RegisteredDataQualityMeasure", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11117.htm", "5.png", "E36385", "0", "", "Class0","{C736C984-88BF-4086-A39A-80C8400F38C9}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:10", "", "DQM_RegisteredDataQualityParameter", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11118.htm", "5.png", "E36386", "0", "", "Class0","{C8735877-449A-4f49-BE61-072E7ADDD50E}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:11", "", "DQM_SourceReference", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11119.htm", "5.png", "E36380", "0", "", "Class0","{1C8226CD-BE97-4a84-A1EE-5696946262D9}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.2:12", "", "«CodeList» DQM_ValueStructure", "EARoot/EA5/EA41/EA1/EA2/EA2/EA11120.htm", "5.png", "E36382", "0", "", "Class0","{6FC7AFB8-24CF-4069-A837-306F0540AA2A}");

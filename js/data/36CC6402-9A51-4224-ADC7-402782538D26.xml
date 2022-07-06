@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.5.19.1.1:1", "", "Coverage", "EARoot/EA5/EA19/EA1/EA1/EA4459.htm", "175.png", "13241", "0", "", "Logical diagram0","{82160BB0-7294-4700-978B-BAFBE2749143}");
+tocTab[tocTab.length] = new Array("0.5.19.1.1:2", "", "«interface» CV_Coverage", "EARoot/EA5/EA19/EA1/EA1/EA4462.htm", "5.png", "E32979", "0", "", "Class0","{3CFA3CB2-C7B4-45f6-BF0A-3D46B74075A9}");
+tocTab[tocTab.length] = new Array("0.5.19.1.1:3", "", "«codelist» CV_CommonPointRule", "EARoot/EA5/EA19/EA1/EA1/EA4463.htm", "5.png", "E32980", "0", "", "Class0","{6C179DFC-41F2-4585-89C3-E11DCDFD82C0}");
+tocTab[tocTab.length] = new Array("0.5.19.1.1:4", "", "«interface» CV_CoverageDescription", "EARoot/EA5/EA19/EA1/EA1/EA4464.htm", "5.png", "E32981", "0", "", "Class0","{99DFD8B4-3FF8-49b2-B46B-BB3FDB03FC51}");

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Figure 1 - Georeferenceable Dataset View</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA5203.png" usemap="#EA5203" border="0" />
+
+<MAP NAME="EA5203">
+<area shape="rect" coords="536,359,782,460" href="../../../EA13/EA2/EA7/EA3375.htm" target="_self">
+<area shape="rect" coords="531,286,771,387" href="../../../EA13/EA2/EA7/EA3376.htm" target="_self">
+<area shape="rect" coords="271,10,473,32" href="../../../EA13/EA2/EA1/EA3130.htm" target="_self">
+<area shape="rect" coords="522,193,744,231" href="../../../EA13/EA2/EA7/EA3378.htm" target="_self">
+<area shape="rect" coords="253,143,483,335" href="../../../EA13/EA2/EA2/EA3146.htm" target="_self">
+<area shape="rect" coords="287,328,469,390" href="../../../EA13/EA2/EA5/EA3302.htm" target="_self">
+<area shape="rect" coords="573,440,721,495" href="../../../EA14/EA1/EA3/EA3664.htm" target="_self">
+<area shape="rect" coords="31,360,153,382" href="EA5205.htm" target="_self">
+<area shape="rect" coords="20,234,188,256" href="EA5206.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Figure 1 - Georeferenceable Dataset View : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10-4-2008 12:16:53</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">10-4-2008 12:16:53</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">jrherrin</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{39C084E2-3CFD-438f-9C24-854584C5F78A}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

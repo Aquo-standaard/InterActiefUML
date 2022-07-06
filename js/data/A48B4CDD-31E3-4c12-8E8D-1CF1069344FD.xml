@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.5.13.1.13:1", "", "Fig A.14 : Application schema information", "EARoot/EA5/EA13/EA1/EA13/EA2977.htm", "175.png", "12773", "0", "", "Logical diagram0","{34F7E79E-C45A-4c03-84D4-4D215A114C52}");
+tocTab[tocTab.length] = new Array("0.5.13.1.13:2", "", "Main", "EARoot/EA5/EA13/EA1/EA13/EA2979.htm", "175.png", "12772", "0", "", "Logical diagram0","{1844E596-AD9E-4b92-B571-D9090A20B809}");
+tocTab[tocTab.length] = new Array("0.5.13.1.13:3", "", "MD_ApplicationSchemaInformation", "EARoot/EA5/EA13/EA1/EA13/EA2982.htm", "5.png", "E32495", "0", "", "Class0","{75CDF5B0-E8E5-4ca6-9CB6-B9D83A2CCBFA}");

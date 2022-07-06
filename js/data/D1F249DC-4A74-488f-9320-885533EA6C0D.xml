@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.4.3:1", "", "«Complex datatype» NEN3610ID", "EARoot/EA2/EA1/EA2/EA4/EA3/EA814.htm", "230.png", "E37724", "0", "", "DataType0","{20587CB6-364B-4e04-968A-4915845CB600}");
+tocTab[tocTab.length] = new Array("0.2.1.2.4.3:2", "", "«Complex datatype» FysiekeEigenschap", "EARoot/EA2/EA1/EA2/EA4/EA3/EA815.htm", "230.png", "E37725", "0", "", "DataType0","{895941F0-D549-4dc9-A283-FB648DBC047B}");

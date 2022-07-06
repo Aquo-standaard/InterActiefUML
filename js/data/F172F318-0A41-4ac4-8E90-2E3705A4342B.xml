@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.1.4.4:1", "", "CityFurniture", "EARoot/EA7/EA1/EA4/EA4/EA11751.htm", "175.png", "14812", "0", "", "Logical diagram0","{2F527588-9639-4877-A3F4-20EF4586A6E4}");
+tocTab[tocTab.length] = new Array("0.7.1.4.4:2", "", "«featureType» CityFurniture", "EARoot/EA7/EA1/EA4/EA4/EA11754.htm", "5.png", "E36789", "0", "", "Class0","{24FA09F2-C63C-4610-B23F-5FD48E9BAE8C}");
+tocTab[tocTab.length] = new Array("0.7.1.4.4:3", "", "«codeList» CityFurnitureClassType", "EARoot/EA7/EA1/EA4/EA4/EA11755.htm", "247.png", "E36790", "0", "", "Enumeration0","{2EBED37F-B9A5-4608-A756-63DD77ACA5AD}");
+tocTab[tocTab.length] = new Array("0.7.1.4.4:4", "", "«codeList» CityFurnitureFunctionType", "EARoot/EA7/EA1/EA4/EA4/EA11756.htm", "247.png", "E36791", "0", "", "Enumeration0","{CB0C6B69-293E-423a-A310-69CD771BDB55}");

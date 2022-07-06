@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Spatial Unit Package (Classes, with Attributes, Constraints, Operations, and Code lists)</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA8283.png" usemap="#EA8283" border="0" />
+
+<MAP NAME="EA8283">
+<area shape="rect" coords="31,208,226,296" href="../EA1/EA3/EA8209.htm" target="_self">
+<area shape="rect" coords="190,742,310,794" href="../EA1/EA3/EA8223.htm" target="_self">
+<area shape="rect" coords="82,306,297,350" href="../EA1/EA3/EA8228.htm" target="_self">
+<area shape="rect" coords="497,11,632,96" href="../EA1/EA3/EA8217.htm" target="_self">
+<area shape="rect" coords="676,742,796,794" href="../EA1/EA3/EA8227.htm" target="_self">
+<area shape="rect" coords="350,742,470,794" href="../EA1/EA3/EA8224.htm" target="_self">
+<area shape="rect" coords="527,742,647,794" href="../EA1/EA3/EA8222.htm" target="_self">
+<area shape="rect" coords="57,674,209,726" href="../EA1/EA3/EA8221.htm" target="_self">
+<area shape="rect" coords="236,674,366,726" href="../EA1/EA3/EA8220.htm" target="_self">
+<area shape="rect" coords="676,674,796,726" href="../EA1/EA3/EA8225.htm" target="_self">
+<area shape="rect" coords="385,674,505,726" href="../EA1/EA3/EA8218.htm" target="_self">
+<area shape="rect" coords="529,674,649,726" href="../EA1/EA3/EA8219.htm" target="_self">
+<area shape="rect" coords="656,10,778,95" href="../EA1/EA3/EA8216.htm" target="_self">
+<area shape="rect" coords="57,742,177,794" href="../EA1/EA3/EA8226.htm" target="_self">
+<area shape="rect" coords="32,128,161,189" href="../EA3/EA8305.htm" target="_self">
+<area shape="rect" coords="622,476,798,534" href="EA8293.htm" target="_self">
+<area shape="rect" coords="649,239,805,285" href="EA8288.htm" target="_self">
+<area shape="rect" coords="640,326,842,453" href="../EA1/EA3/EA8215.htm" target="_self">
+<area shape="rect" coords="183,566,462,651" href="../EA1/EA3/EA8214.htm" target="_self">
+<area shape="rect" coords="480,574,778,651" href="../EA1/EA3/EA8213.htm" target="_self">
+<area shape="rect" coords="38,389,217,556" href="../EA1/EA3/EA8212.htm" target="_self">
+<area shape="rect" coords="328,262,583,519" href="../EA1/EA3/EA8210.htm" target="_self">
+<area shape="rect" coords="354,146,541,199" href="../EA1/EA2/EA8194.htm" target="_self">
+<area shape="rect" coords="190,87,332,143" href="../EA1/EA2/EA8193.htm" target="_self">
+<area shape="rect" coords="589,133,802,203" href="EA8292.htm" target="_self">
+<area shape="rect" coords="29,28,171,84" href="../EA1/EA1/EA8186.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Spatial Unit Package (Classes, with Attributes, Constraints, Operations, and Code lists) : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">13-9-2010 07:58:52</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">10-11-2011 01:45:03</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">htuitermark</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{5D62722A-A531-41eb-B4B3-AC41AAB6CB02}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

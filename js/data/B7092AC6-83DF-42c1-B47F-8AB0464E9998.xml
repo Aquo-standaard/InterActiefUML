@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:1", "", "DQ_Result", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11084.htm", "175.png", "14725", "0", "", "Logical diagram0","{52DBA7A7-08A9-45a1-B72F-39D0E0B26664}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:2", "", "CoverageResult", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11087.htm", "5.png", "E36367", "0", "", "Class0","{9510BF40-94BA-4395-8F23-D6519DC804E1}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:3", "", "«CodeList» DataQualityValueType", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11088.htm", "5.png", "E36369", "0", "", "Class0","{A52EC09F-6275-42da-9BDD-E517319434DF}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:4", "", "«CodeList» DataQualityValueUnit", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11089.htm", "5.png", "E36365", "0", "", "Class0","{1F450AF9-3A8F-4300-BAAB-B1EB0923604C}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:5", "", "DQ_ConformanceResult", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11090.htm", "5.png", "E36368", "0", "", "Class0","{A0B00D74-27B9-492f-B5BD-26CB2B102249}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:6", "", "DQ_DescriptiveResult", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11091.htm", "5.png", "E36370", "0", "", "Class0","{C8523CB3-BA84-4cac-A2F1-2CC16A7634FF}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:7", "", "DQ_QuantitativeResult", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11092.htm", "5.png", "E36371", "0", "", "Class0","{D0F10E0C-D557-4c6d-BD73-45121C98C469}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:8", "", "«Abstract» DQ_Result", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11093.htm", "5.png", "E36366", "0", "", "Class0","{3062CB2E-166B-4658-BED2-1123D6EB0DAC}");
+tocTab[tocTab.length] = new Array("0.5.41.1.2.1.2:9", "", "QE_CoverageResult", "EARoot/EA5/EA41/EA1/EA2/EA1/EA2/EA11094.htm", "5.png", "E36364", "0", "", "Class0","{151D24AC-D8BE-403d-8837-3F429E1A0617}");

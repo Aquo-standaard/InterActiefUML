@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.1:1", "", "ISO TC211", "EARoot/EA1/EA2/EA1/EA1/EA61.htm", "175.png", "14837", "0", "", "Logical diagram0","{CAA2A3A2-A005-4a62-8AD9-7B574C7B20CD}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:2", "", "«Primitief datatype» TM_Instant", "EARoot/EA1/EA2/EA1/EA1/EA64.htm", "230.png", "E37047", "0", "", "DataType0","{88CD7A03-A04C-42c5-89D6-CC014E464828}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1:3", "", "«Gestructureerd datatype» TM_Period", "EARoot/EA1/EA2/EA1/EA1/EA65.htm", "230.png", "E37046", "0", "", "DataType0","{81AA32B5-5426-4f2d-85CE-4DD6822E3858}");

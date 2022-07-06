@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.5.19.1.6:1", "", "Continuous Coverage", "EARoot/EA5/EA19/EA1/EA6/EA4524.htm", "175.png", "13252", "0", "", "Logical diagram0","{50EBB49D-1539-4bed-9A8D-58F388FEC9C6}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:2", "", "Selected Range Variable", "EARoot/EA5/EA19/EA1/EA6/EA4526.htm", "175.png", "13255", "0", "", "Logical diagram0","{59332CD7-E926-47fe-903E-F026635E676C}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:3", "", "Evaluation Method", "EARoot/EA5/EA19/EA1/EA6/EA4528.htm", "175.png", "13253", "0", "", "Logical diagram0","{D17E411C-3298-4dd9-9A88-089F02FF36F5}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:4", "", "Evaluation Support Data", "EARoot/EA5/EA19/EA1/EA6/EA4530.htm", "175.png", "13254", "0", "", "Logical diagram0","{19ACEB26-966B-4589-B67B-A9C8D3EA6E7F}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:5", "", "«interface» CV_ContinuousCoverage", "EARoot/EA5/EA19/EA1/EA6/EA4533.htm", "5.png", "E33026", "0", "", "Class0","{EAE649C4-4654-4f32-8C73-8A8783FE614E}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:6", "", "«interface» CV_SelectedRangeVariable", "EARoot/EA5/EA19/EA1/EA6/EA4534.htm", "5.png", "E33021", "0", "", "Class0","{22DB5192-1A29-47dd-9488-67BCBF8A0570}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:7", "", "«datatype» CV_SelectedKey", "EARoot/EA5/EA19/EA1/EA6/EA4535.htm", "5.png", "E33017", "0", "", "Class0","{09862483-BF0E-4d3e-AB02-1C96E82B1308}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:8", "", "«interface» CV_EvaluationMethod", "EARoot/EA5/EA19/EA1/EA6/EA4536.htm", "5.png", "E33018", "0", "", "Class0","{17E915E9-2830-4c72-9B6E-9E13522A7B8B}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:9", "", "«codelist» CV_EvaluationStructure", "EARoot/EA5/EA19/EA1/EA6/EA4537.htm", "5.png", "E33025", "0", "", "Class0","{C484FC62-61AD-4349-9A3D-18DCA2E3D41A}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:10", "", "«interface» CV_InterpolationMethod", "EARoot/EA5/EA19/EA1/EA6/EA4538.htm", "5.png", "E33024", "0", "", "Class0","{B215164B-B839-4f6b-81A2-43AC1DB8F7A9}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:11", "", "«codelist» CV_InterpolationType", "EARoot/EA5/EA19/EA1/EA6/EA4539.htm", "5.png", "E33023", "0", "", "Class0","{5FBDB920-FD66-4191-8BDC-0CE5F61F7324}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:12", "", "«interface» CV_EvaluationSuppportData", "EARoot/EA5/EA19/EA1/EA6/EA4540.htm", "5.png", "E33022", "0", "", "Class0","{3F37B376-359F-495f-8E40-C6FF635DE2A4}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:13", "", "«interface» CV_TINSupport", "EARoot/EA5/EA19/EA1/EA6/EA4541.htm", "5.png", "E33020", "0", "", "Class0","{1C750CF5-2160-49a3-885A-EA22C1C01172}");
+tocTab[tocTab.length] = new Array("0.5.19.1.6:14", "", "«interface» CV_ThiessenSupport", "EARoot/EA5/EA19/EA1/EA6/EA4542.htm", "5.png", "E33019", "0", "", "Class0","{1C712E81-1BC8-440d-8532-B0BE2E659A7B}");

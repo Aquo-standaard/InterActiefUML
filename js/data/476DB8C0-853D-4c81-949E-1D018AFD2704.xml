@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:1", "", "Polygon_ProfileInstance", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9906.htm", "177.png", "14438", "0", "", "Object diagram0","{8CB60B17-887C-4813-B92A-E90A3FDBF195}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:2", "", "CadastralParcelPT: Polygon_SpatialUnit: Polygon_SpatialUnit", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9911.htm", "25.png", "E35837", "0", "", "Object0","{C90AD26D-9007-4250-A397-5224F3BDAC5F}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:3", "", "ContinentalPortugal: Polygon_SpatialUnitGroup", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9912.htm", "25.png", "E35836", "0", "", "Object0","{33A53683-8791-4832-984C-698BA178C2B0}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:4", "", "ParcelGeometryPT: Polygon_FaceString: Polygon_Boundary", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9913.htm", "25.png", "E35838", "0", "", "Object0","{DB92378B-E77E-4c0d-8DA8-7960DFCE1327}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:5", "", "Polygon_Boundary", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9914.htm", "5.png", "E35833", "0", "", "Class0","{A7E63D30-CA8D-47dc-ACB9-947AFDB5C06A}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:6", "", "Polygon_Level", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9915.htm", "5.png", "E35830", "0", "", "Class0","{4822C42C-E6A1-4489-8C20-70407D6F4488}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:7", "", "Polygon_SpatialUnit", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9916.htm", "5.png", "E35832", "0", "", "Class0","{894EE8B3-8456-4755-9FA7-47F7DD13F9D8}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.8:8", "", "Polygon_SpatialUnitGroup", "EARoot/EA5/EA37/EA1/EA4/EA8/EA9917.htm", "5.png", "E35831", "0", "", "Class0","{5CAE14C3-7585-4956-B4A5-92E2936B60FC}");

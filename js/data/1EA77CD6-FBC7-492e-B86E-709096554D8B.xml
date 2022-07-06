@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.1.4.5:1", "", "Core 1", "EARoot/EA7/EA1/EA4/EA5/EA11757.htm", "175.png", "14813", "0", "", "Logical diagram0","{AB709014-757C-40e1-9D92-363FD5197B89}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:2", "", "Core 2", "EARoot/EA7/EA1/EA4/EA5/EA11759.htm", "175.png", "14814", "0", "", "Logical diagram0","{9476F9D6-6B7B-4369-B6DF-DE3B94B46913}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:3", "", "«featureType» _CityObject", "EARoot/EA7/EA1/EA4/EA5/EA11762.htm", "5.png", "E36792", "0", "", "Class0","{34C8E10E-D257-47aa-89F2-43F3C43E0037}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:4", "", "«featureType» _Site", "EARoot/EA7/EA1/EA4/EA5/EA11763.htm", "5.png", "E36798", "0", "", "Class0","{B8641E2B-6D7E-4590-845B-4EA7DE0420E8}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:5", "", "«featureType» Address", "EARoot/EA7/EA1/EA4/EA5/EA11764.htm", "5.png", "E36799", "0", "", "Class0","{C2E5AFB5-49F8-4b44-B8BE-6B2DA1EC978E}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:6", "", "«featureType» CityModel", "EARoot/EA7/EA1/EA4/EA5/EA11765.htm", "5.png", "E36797", "0", "", "Class0","{9293B50A-8F7C-4c9d-92B8-E15B0C368AE4}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:7", "", "«union» ExternalObjectReference", "EARoot/EA7/EA1/EA4/EA5/EA11766.htm", "5.png", "E36795", "0", "", "Class0","{6FD9E461-55F3-4b17-8981-FE667CC0CB9D}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:8", "", "«dataType» ExternalReference", "EARoot/EA7/EA1/EA4/EA5/EA11767.htm", "5.png", "E36800", "0", "", "Class0","{CA670A9C-6853-47e1-BB6D-DF8DB1AF0F5E}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:9", "", "«object» ImplicitGeometry", "EARoot/EA7/EA1/EA4/EA5/EA11768.htm", "5.png", "E36796", "0", "", "Class0","{742FBB6F-F31C-4cdf-A7A1-737B3A4B0C58}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:10", "", "«codeList» MimeTypeType", "EARoot/EA7/EA1/EA4/EA5/EA11769.htm", "247.png", "E36793", "0", "", "Enumeration0","{3974D49F-5308-424a-8F5B-A35B8101BD0C}");
+tocTab[tocTab.length] = new Array("0.7.1.4.5:11", "", "«dataType» TransformationMatrix4x4Type", "EARoot/EA7/EA1/EA4/EA5/EA11770.htm", "5.png", "E36794", "0", "", "Class0","{42493CA0-11B4-4287-BB2D-D08AD196AA0F}");

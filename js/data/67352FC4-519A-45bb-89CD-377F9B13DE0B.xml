@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.1.1.1:1", "", "Enkelvoudige Datatypen", "EARoot/EA1/EA1/EA1/EA1/EA17.htm", "175.png", "14831", "0", "", "Logical diagram0","{163B8D37-0EDA-4083-9939-ABA5E065DDA0}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:2", "", "«Primitief datatype» LineString", "EARoot/EA1/EA1/EA1/EA1/EA20.htm", "230.png", "E37028", "0", "", "DataType0","{F6B09BF4-A3A6-4fed-9CB3-51A6B6754420}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:3", "", "«Primitief datatype» MultiLineString", "EARoot/EA1/EA1/EA1/EA1/EA21.htm", "230.png", "E37024", "0", "", "DataType0","{856A9F45-37CF-492a-AECD-1C18C94EE4F4}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:4", "", "«Primitief datatype» MultiPoint", "EARoot/EA1/EA1/EA1/EA1/EA22.htm", "230.png", "E37023", "0", "", "DataType0","{5839AD49-C99A-4a76-8186-498666FA5C39}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:5", "", "«Primitief datatype» MultiPolygon", "EARoot/EA1/EA1/EA1/EA1/EA23.htm", "230.png", "E37025", "0", "", "DataType0","{D7074216-4E8C-44e4-9D47-816DBB5B266A}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:6", "", "«Primitief datatype» OIN", "EARoot/EA1/EA1/EA1/EA1/EA24.htm", "230.png", "E37026", "0", "", "DataType0","{DE3171A5-CF22-4eee-BBFA-7B27A6A8004B}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:7", "", "«Primitief datatype» Point", "EARoot/EA1/EA1/EA1/EA1/EA25.htm", "230.png", "E37027", "0", "", "DataType0","{EBCA0C24-E3E3-4582-8010-43D54CC34E4B}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:8", "", "«Primitief datatype» Polygon", "EARoot/EA1/EA1/EA1/EA1/EA26.htm", "230.png", "E37021", "0", "", "DataType0","{19AC913E-71BB-4c67-BE82-E9465E2036B4}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:9", "", "«Primitief datatype» UUID", "EARoot/EA1/EA1/EA1/EA1/EA27.htm", "230.png", "E37022", "0", "", "DataType0","{25A57E0C-4C7F-4485-AA95-22ED044778B6}");

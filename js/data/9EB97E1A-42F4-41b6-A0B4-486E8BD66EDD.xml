@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.1.2.3.3:1", "", "«Complex datatype» GenericName", "EARoot/EA3/EA1/EA2/EA3/EA3/EA863.htm", "230.png", "E37762", "0", "", "DataType0","{C3B54279-E434-4282-AC2E-6982284A7FD8}");
+tocTab[tocTab.length] = new Array("0.3.1.2.3.3:2", "", "«Complex datatype» NEN3610ID", "EARoot/EA3/EA1/EA2/EA3/EA3/EA864.htm", "230.png", "E37760", "0", "", "DataType0","{66B88922-E4EF-4c1c-BE1F-682F1DE96FE7}");
+tocTab[tocTab.length] = new Array("0.3.1.2.3.3:3", "", "«Complex datatype» FysiekeEigenschap", "EARoot/EA3/EA1/EA2/EA3/EA3/EA865.htm", "230.png", "E37761", "0", "", "DataType0","{B90780EF-BCAD-4e69-B342-584A2176CF91}");

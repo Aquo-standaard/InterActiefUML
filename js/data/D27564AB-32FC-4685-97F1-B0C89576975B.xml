@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.1.4.2:1", "", "IMMetingen-Waterkwaliteit - overzicht", "EARoot/EA1/EA4/EA2/EA150.htm", "175.png", "14839", "0", "", "Logical diagram0","{709F64D1-2331-4fb1-B3F4-C58115395AC1}");
+tocTab[tocTab.length] = new Array("0.1.4.2:2", "", "Waterkwaliteit - overzicht", "EARoot/EA1/EA4/EA2/EA152.htm", "175.png", "14838", "0", "", "Logical diagram0","{84E9D9BF-6FBA-4430-839A-524D846E9CE4}");
+tocTab[tocTab.length] = new Array("0.1.4.2:3", "", "«Objecttype» BioObservation", "EARoot/EA1/EA4/EA2/EA163.htm", "5.png", "E37138", "0", "", "Class0","{6ED29EBE-1E47-47f9-AD84-681D1D30E4A7}");
+tocTab[tocTab.length] = new Array("0.1.4.2:4", "", "«Objecttype» Biota", "EARoot/EA1/EA4/EA2/EA164.htm", "5.png", "E37147", "0", "", "Class0","{DDE8CE9E-8375-4b5d-9163-51C125632194}");
+tocTab[tocTab.length] = new Array("0.1.4.2:5", "", "«Objecttype» Observation", "EARoot/EA1/EA4/EA2/EA167.htm", "5.png", "E37146", "0", "", "Class0","{DD46F4DF-8D12-4455-85AD-41A6D6399F59}");
+tocTab[tocTab.length] = new Array("0.1.4.2:6", "", "«Objecttype» ObservationProcess", "EARoot/EA1/EA4/EA2/EA168.htm", "5.png", "E37151", "0", "", "Class0","{F6B26DEE-9871-4f12-B22C-EB572964800C}");
+tocTab[tocTab.length] = new Array("0.1.4.2:7", "", "«Objecttype» Analysis", "EARoot/EA1/EA4/EA2/EA169.htm", "5.png", "E37137", "0", "", "Class0","{6C0B385B-3BE9-4a9e-AC02-8ADCED25ED22}");
+tocTab[tocTab.length] = new Array("0.1.4.2:8", "", "«Objecttype» AnalysisProcess", "EARoot/EA1/EA4/EA2/EA170.htm", "5.png", "E37139", "0", "", "Class0","{769680CC-8F5C-4132-85AF-76D4B4EB1333}");
+tocTab[tocTab.length] = new Array("0.1.4.2:9", "", "«Objecttype» AnalyticResult", "EARoot/EA1/EA4/EA2/EA171.htm", "5.png", "E37140", "0", "", "Class0","{94CA7B1B-EA04-45bb-A977-D281FFA8A232}");
+tocTab[tocTab.length] = new Array("0.1.4.2:10", "", "«Objecttype» SamplingProcess", "EARoot/EA1/EA4/EA2/EA172.htm", "5.png", "E37132", "0", "", "Class0","{2FD0DD2E-9B6F-49f8-924E-253184B5EEBB}");
+tocTab[tocTab.length] = new Array("0.1.4.2:11", "", "«Objecttype» MeasurementObject", "EARoot/EA1/EA4/EA2/EA173.htm", "5.png", "E37131", "0", "", "Class0","{257CF73F-471F-4fb4-9E68-74D3D05B5C3F}");
+tocTab[tocTab.length] = new Array("0.1.4.2:12", "", "«Objecttype» CalculatedAnalysis", "EARoot/EA1/EA4/EA2/EA174.htm", "5.png", "E37150", "0", "", "Class0","{E7FAFA95-F702-4ae5-BE5A-B9F9EEF3F1AD}");
+tocTab[tocTab.length] = new Array("0.1.4.2:13", "", "«Gestructureerd datatype» NEN3610ID", "EARoot/EA1/EA4/EA2/EA175.htm", "230.png", "E37144", "0", "", "DataType0","{D178FEEF-01AF-4814-B003-F035E0D15EDF}");
+tocTab[tocTab.length] = new Array("0.1.4.2:14", "", "«Objecttype» MeasureResult", "EARoot/EA1/EA4/EA2/EA176.htm", "5.png", "E37148", "0", "", "Class0","{DEDA703D-EF79-4ec9-B67C-AC02C4D85A90}");
+tocTab[tocTab.length] = new Array("0.1.4.2:15", "", "«Gestructureerd datatype» PhysicalProperty", "EARoot/EA1/EA4/EA2/EA177.htm", "230.png", "E37145", "0", "", "DataType0","{DC07FB8C-4C80-4cae-AB23-A63A1710A55E}");
+tocTab[tocTab.length] = new Array("0.1.4.2:16", "", "«Objecttype» Result", "EARoot/EA1/EA4/EA2/EA178.htm", "5.png", "E37135", "0", "", "Class0","{62E96C2F-2AF8-4283-A84E-816A8338C28E}");
+tocTab[tocTab.length] = new Array("0.1.4.2:17", "", "«Objecttype» Sample", "EARoot/EA1/EA4/EA2/EA179.htm", "5.png", "E37149", "0", "", "Class0","{E448728F-403B-42a5-A942-C6C3CA48B990}");

@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:1", "", "Parameterized symbol example", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4240.htm", "175.png", "13171", "0", "", "Logical diagram0","{6EB83CF6-0082-4e7d-B126-B2F2124D07A7}");
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:2", "", "Pt1034: SurveyPtSym", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4249.htm", "25.png", "E32921", "0", "", "Object0","{F58D9312-7D0C-460e-B4CF-89B3B854345F}");
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:3", "", "Pt1034: SurveyPoint", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4250.htm", "25.png", "E32919", "0", "", "Object0","{7E044D0F-A748-4a45-A9F4-AD76FAEB278D}");
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:4", "", "PtSymbolDefinition", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4251.htm", "5.png", "E32911", "0", "", "Class0","{64302848-9F52-4314-8552-1FBDB500A8FD}");
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:5", "", "SurveyPoint", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4252.htm", "5.png", "E32912", "0", "", "Class0","{6E19CD63-5F84-439e-9350-84E0CA70A5D1}");
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:6", "", "SurveyPtSym", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4253.htm", "5.png", "E32914", "0", "", "Class0","{97E4A8FA-E13A-447f-A0FE-90A6B07EDA1F}");
+tocTab[tocTab.length] = new Array("0.5.17.1.4.2:7", "", "SurveyPtSymDef: PtSymbolDefinition", "EARoot/EA5/EA17/EA1/EA4/EA2/EA4254.htm", "25.png", "E32920", "0", "", "Object0","{9ECB0E32-DBD1-4c82-BFF9-EE6D1757DB43}");

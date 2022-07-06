@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.5.13.1.12:1", "", "Fig A.13 : Metadata extension information", "EARoot/EA5/EA13/EA1/EA12/EA2967.htm", "175.png", "12770", "0", "", "Logical diagram0","{DF7C6632-9504-4d77-AA30-4F3450EB44A3}");
+tocTab[tocTab.length] = new Array("0.5.13.1.12:2", "", "Main", "EARoot/EA5/EA13/EA1/EA12/EA2969.htm", "175.png", "12771", "0", "", "Logical diagram0","{C36A63AD-E2C8-40e9-8EA1-45E933D2226E}");
+tocTab[tocTab.length] = new Array("0.5.13.1.12:3", "", "«CodeList» MD_DatatypeCode", "EARoot/EA5/EA13/EA1/EA12/EA2973.htm", "5.png", "E32491", "0", "", "Class0","{60FE7E6F-075E-416a-969A-F93D069A6BA1}");
+tocTab[tocTab.length] = new Array("0.5.13.1.12:4", "", "MD_ExtendedElementInformation", "EARoot/EA5/EA13/EA1/EA12/EA2974.htm", "5.png", "E32490", "0", "", "Class0","{4500EAB5-0A33-49a2-808A-A7866B8C3CE2}");
+tocTab[tocTab.length] = new Array("0.5.13.1.12:5", "", "MD_MetadataExtensionInformation", "EARoot/EA5/EA13/EA1/EA12/EA2975.htm", "5.png", "E32493", "0", "", "Class0","{BDABA819-E8D3-4eef-89B0-2EEEBAE85DB9}");
+tocTab[tocTab.length] = new Array("0.5.13.1.12:6", "", "MD_ObligationCode", "EARoot/EA5/EA13/EA1/EA12/EA2976.htm", "247.png", "E32494", "0", "", "Enumeration0","{CF955CCF-4C69-4cd4-B574-B950F0662664}");

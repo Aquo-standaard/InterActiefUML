@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.5.1.1:1", "", "«Primitief datatype» Float", "EARoot/EA1/EA5/EA1/EA1/EA239.htm", "230.png", "E37214", "0", "", "DataType0","{BB6CE88B-171F-4968-8EED-8C8B75D6F9C4}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:2", "", "«Primitief datatype» GenericName", "EARoot/EA1/EA5/EA1/EA1/EA240.htm", "230.png", "E37213", "0", "", "DataType0","{9937DA9F-B238-43c7-9D36-D956115AD19C}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:3", "", "«Primitief datatype» GM_Point", "EARoot/EA1/EA5/EA1/EA1/EA241.htm", "230.png", "E37215", "0", "", "DataType0","{F82E2DE9-80C6-4dc1-8A9F-13FA5A1D14BC}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:4", "", "«Primitief datatype» Int", "EARoot/EA1/EA5/EA1/EA1/EA242.htm", "230.png", "E37210", "0", "", "DataType0","{775B1B91-84A1-413e-87EC-9CA7C28C1AE4}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:5", "", "«Gestructureerd datatype» Measure", "EARoot/EA1/EA5/EA1/EA1/EA243.htm", "230.png", "E37209", "0", "", "DataType0","{07263E25-46D2-4967-930B-3C5D986D56DF}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:6", "", "«Primitief datatype» Number", "EARoot/EA1/EA5/EA1/EA1/EA244.htm", "230.png", "E37212", "0", "", "DataType0","{94B4F034-B519-45ac-BDE3-FCC03F219821}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:7", "", "«Primitief datatype» TM_Instant", "EARoot/EA1/EA5/EA1/EA1/EA245.htm", "230.png", "E37208", "0", "", "DataType0","{0587DC30-DB55-403d-9E73-AE91AE36AAA3}");
+tocTab[tocTab.length] = new Array("0.1.5.1.1:8", "", "«Gestructureerd datatype» TM_Period", "EARoot/EA1/EA5/EA1/EA1/EA246.htm", "230.png", "E37211", "0", "", "DataType0","{8777BB90-50E5-4abf-8272-021087940AC3}");

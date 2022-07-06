@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.1.2:1", "", "Waterkwaliteit BSM Bericht", "EARoot/EA3/EA1/EA2/EA838.htm", "175.png", "14861", "0", "", "Logical diagram0","{64F7791B-8597-464a-9872-703A903AD1BA}");
+tocTab[tocTab.length] = new Array("0.3.1.2:2", "", "Waterkwaliteit BSM Overzicht", "EARoot/EA3/EA1/EA2/EA840.htm", "175.png", "14860", "0", "", "Logical diagram0","{E21A08A9-E214-4611-9A7B-FE60AF3A97AF}");
+tocTab[tocTab.length] = new Array("0.3.1.2.1", "1", "Gegevensgroepen", "EARoot/EA3/EA1/EA2/EA1/EA852.htm", "4.png", "", "", "{09722B3B-9B40-4037-AE9E-65D67AC9A0FE}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.2", "", "Relatieklassen", "EARoot/EA3/EA1/EA2/EA2/EA855.htm", "4.png", "", "", "{C01E83BA-B49E-4be1-9B93-49B95AC6F0CE}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.3", "1", "Datatypes", "EARoot/EA3/EA1/EA2/EA3/EA856.htm", "4.png", "", "", "{9393CC2F-96BE-44ca-AA79-3D531C84C67C}", "Package");

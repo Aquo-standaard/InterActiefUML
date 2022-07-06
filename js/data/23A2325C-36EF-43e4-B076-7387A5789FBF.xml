@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.1.4:1", "", "«Interface» De01-Deleteresource", "EARoot/EA3/EA1/EA4/EA874.htm", "5.png", "E37771", "0", "", "Class0","{CD319AD6-E572-4bab-B2CD-ED84DEFA888F}");
+tocTab[tocTab.length] = new Array("0.3.1.4:2", "", "«Interface» Gc01-Getcollection", "EARoot/EA3/EA1/EA4/EA875.htm", "5.png", "E37773", "0", "", "Class0","{FB1676E7-6C0A-489b-AA06-C8137999DF2E}");
+tocTab[tocTab.length] = new Array("0.3.1.4:3", "", "«Interface» Gc02-Getcollection", "EARoot/EA3/EA1/EA4/EA876.htm", "5.png", "E37767", "0", "", "Class0","{0981113D-5230-41df-A792-55A1F3AFD468}");
+tocTab[tocTab.length] = new Array("0.3.1.4:4", "", "«Interface» Gr01-Getresource", "EARoot/EA3/EA1/EA4/EA877.htm", "5.png", "E37768", "0", "", "Class0","{0DF6DF61-947A-439f-9012-F55A770F287C}");
+tocTab[tocTab.length] = new Array("0.3.1.4:5", "", "«Interface» Pa01-Patchresource", "EARoot/EA3/EA1/EA4/EA878.htm", "5.png", "E37772", "0", "", "Class0","{F2965FAB-F48F-4831-B38D-589C4BEF054E}");
+tocTab[tocTab.length] = new Array("0.3.1.4:6", "", "«Interface» Po01-Postresource", "EARoot/EA3/EA1/EA4/EA879.htm", "5.png", "E37770", "0", "", "Class0","{A163E986-4D29-4325-BE15-1030EF078574}");
+tocTab[tocTab.length] = new Array("0.3.1.4:7", "", "«Interface» Pu01-Putresource", "EARoot/EA3/EA1/EA4/EA880.htm", "5.png", "E37769", "0", "", "Class0","{9797DE43-9653-4aee-BD75-8F9875AAA1C4}");

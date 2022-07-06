@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.5.13.1.15:1", "", "CD", "EARoot/EA5/EA13/EA1/EA15/EA2999.htm", "175.png", "12778", "0", "", "Logical diagram0","{FF3DF04E-B66F-4d41-8A62-76FFC2988203}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:2", "", "Fig A.16 : Citation and responsible party information", "EARoot/EA5/EA13/EA1/EA15/EA3001.htm", "175.png", "12777", "0", "", "Logical diagram0","{0D4541DB-47F5-4c85-815B-9C616CB7BE9F}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:3", "", "«datatype» CI_Address", "EARoot/EA5/EA13/EA1/EA15/EA3005.htm", "5.png", "E32505", "0", "", "Class0","{0BE0443B-86D8-4658-91B4-D227D0F70B58}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:4", "", "«datatype» CI_Citation", "EARoot/EA5/EA13/EA1/EA15/EA3006.htm", "5.png", "E32508", "0", "", "Class0","{22A9E2CC-60C9-4bd6-ACFC-54C7FF72B9D6}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:5", "", "«datatype» CI_Contact", "EARoot/EA5/EA13/EA1/EA15/EA3007.htm", "5.png", "E32507", "0", "", "Class0","{13F97B2E-1C16-4352-8780-52E304112B5F}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:6", "", "«datatype» CI_Date", "EARoot/EA5/EA13/EA1/EA15/EA3008.htm", "5.png", "E32514", "0", "", "Class0","{7E35AE99-BE05-4b5f-9293-4D9F407D6A0D}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:7", "", "«CodeList» CI_DateTypeCode", "EARoot/EA5/EA13/EA1/EA15/EA3009.htm", "5.png", "E32509", "0", "", "Class0","{2CC18330-01EB-45dc-A66B-BB547EB654B7}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:8", "", "«CodeList» CI_OnLineFunctionCode", "EARoot/EA5/EA13/EA1/EA15/EA3010.htm", "5.png", "E32510", "0", "", "Class0","{42FAB525-77B3-4ddc-BD1E-79F6DEA14D5C}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:9", "", "«datatype» CI_OnlineResource", "EARoot/EA5/EA13/EA1/EA15/EA3011.htm", "5.png", "E32513", "0", "", "Class0","{607BEEAB-82C8-4aac-9183-B1B4714C406B}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:10", "", "«CodeList» CI_PresentationFormCode", "EARoot/EA5/EA13/EA1/EA15/EA3012.htm", "5.png", "E32518", "0", "", "Class0","{D3FE4C91-D196-4cf1-B690-ED684AAA9F72}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:11", "", "«datatype» CI_ResponsibleParty", "EARoot/EA5/EA13/EA1/EA15/EA3013.htm", "5.png", "E32506", "0", "", "Class0","{0EB82F8E-C2A6-49ce-8C75-5D88DF6BA514}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:12", "", "«CodeList» CI_RoleCode", "EARoot/EA5/EA13/EA1/EA15/EA3014.htm", "5.png", "E32511", "0", "", "Class0","{4D037A77-D4AA-4f16-AC57-C9A918A05A7B}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:13", "", "«datatype» CI_Series", "EARoot/EA5/EA13/EA1/EA15/EA3015.htm", "5.png", "E32515", "0", "", "Class0","{980950E5-E0F2-444c-A471-BF19A60CBBB0}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:14", "", "«datatype» CI_Telephone", "EARoot/EA5/EA13/EA1/EA15/EA3016.htm", "5.png", "E32517", "0", "", "Class0","{C5AD9A98-5F19-4a00-88D4-44898DDE8390}");
+tocTab[tocTab.length] = new Array("0.5.13.1.15:15", "", "URL", "EARoot/EA5/EA13/EA1/EA15/EA3017.htm", "5.png", "E32516", "0", "", "Class0","{B74C5C7D-D192-4813-997A-F18ED2CB3625}");

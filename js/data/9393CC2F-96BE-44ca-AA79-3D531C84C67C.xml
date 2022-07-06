@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.1.2.3.1", "", "Enkelvoudige datatypes", "EARoot/EA3/EA1/EA2/EA3/EA1/EA860.htm", "4.png", "", "", "{FE6E41CD-2A76-4301-88C2-25EB4C72A6D9}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.3.2", "", "Enumeraties", "EARoot/EA3/EA1/EA2/EA3/EA2/EA861.htm", "4.png", "", "", "{388AAEE0-4BD5-49ea-A5D7-DC96FCB2E59B}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.3.3", "1", "Gestructureerde datatypes", "EARoot/EA3/EA1/EA2/EA3/EA3/EA862.htm", "4.png", "", "", "{9EB97E1A-42F4-41b6-A0B4-486E8BD66EDD}", "Package");

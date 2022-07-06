@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.5.3:1", "", "Context Diagram: CountryCode", "EARoot/EA5/EA3/EA1123.htm", "175.png", "12196", "0", "", "Logical diagram0","{06F4C256-8783-46fa-9A84-D9AF5F0265B8}");
+tocTab[tocTab.length] = new Array("0.5.3:2", "", "«CodeList» CountryCode", "EARoot/EA5/EA3/EA1126.htm", "5.png", "E31867", "0", "", "Class0","{3D013C27-C2CC-4052-8F57-6B447F885F61}");

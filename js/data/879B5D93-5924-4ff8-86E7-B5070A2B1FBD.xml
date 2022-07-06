@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.1.1.1", "1", "Enkelvoudig Datatype", "EARoot/EA1/EA1/EA1/EA1/EA19.htm", "4.png", "", "", "{67352FC4-519A-45bb-89CD-377F9B13DE0B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.1.2", "1", "Complex Datatype", "EARoot/EA1/EA1/EA1/EA2/EA30.htm", "4.png", "", "", "{2285C37C-1617-4689-83D7-C7D7AD0EB71C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.1.3", "", "Referentielijst", "EARoot/EA1/EA1/EA1/EA3/EA34.htm", "4.png", "", "", "{17B96E34-0FFD-4c70-AB85-210D8069B54F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.1.4", "1", "Enumeratie", "EARoot/EA1/EA1/EA1/EA4/EA35.htm", "4.png", "", "", "{FEE1EED4-1AB4-4c6b-8FC0-5ACB78882204}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.1.5", "", "Union", "EARoot/EA1/EA1/EA1/EA5/EA37.htm", "4.png", "", "", "{0D1D21AD-4B64-4e16-84B1-BAF7FB9B0C44}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.1.6", "1", "Diagram", "EARoot/EA1/EA1/EA1/EA6/EA44.htm", "4.png", "", "", "{300C2CDA-574E-4920-89B9-CA8A72E1A0AA}", "Package");

@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>IMMetingen</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("IMMetingen", " : "))</script>  : Public  &lt;&lt;Domein&gt;&gt; Package</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">9-4-2013 00:00:00</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">5-11-2021 13:19:04</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Systeembeheer</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{EAA1A91B-AA0F-4f02-9DCB-688BBC215E33}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../EA6/EA2/EA523.htm">Aquo uitwisselmodellen - overzicht</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">De acties die ik tot nu toe gedaan heb om dit model conform MIM te maken :&lt;br/&gt;&lt;br/&gt;- Een package&#160;&#160;&quot;Datatypes&quot;toegevoegd en daabinnen de packages &quot;Gestructureerde datatypes&quot; toegevoegd&lt;br/&gt;- Package &quot;Objecttypes toegevoegd&quot;&lt;br/&gt;- Bij featuretypes heb ik de volgende acties gedaan :&lt;br/&gt;	- het stereotype &quot;Objecttype&quot; toegevoegd.&lt;br/&gt;	- de betreffende class naar de package &quot;Objecttype verplaatst.&lt;br/&gt;	- Alle Attributes voorzien van stereotype &quot;Attribuutsoort&quot; &lt;br/&gt;	- Bij alle Attributes een typeverwijzing gedaan naar de package &quot;MIM11 Primitieve Datatypen&quot;(indien van toepassing) &lt;br/&gt;&lt;br/&gt;- Bij datatypes heb ik de volgende acties gedaan &lt;br/&gt;	- Type veranderd van Class naar Datatype&lt;br/&gt;	- Stereotype &quot;gevstructureerd datatype&quot;toegevoegd&lt;br/&gt;	- Alle Attributes voorzien van stereotype &quot;Dataelement&quot; &lt;br/&gt;	- Bij alle Attributes een typeverwijzing gedaan naar de package &quot;MIM11 Primitieve Datatypen&quot;(indien van toepassing) &lt;br/&gt;- Ik heb een gestructureerd datatype &quot;Codelijst toegevoegd met een code en een waarde.&lt;br/&gt;&#160;&#160;Alle attribuutsoorten die naar een codelijst verwijzen heb ik naar deze lijst laten verwijzen. Mogelijk is het nog een idee om de locatie van de codelijst (url) ook op te nemen als dataelement van dit gesturctureerd datatype. Voorals nog is de toelichting welke codelijst het betreft beschreven in de definitie van het attribuutsoort. &lt;br/&gt;&lt;br/&gt;Vraag: Wat is een GenericRange voor type ? &lt;br/&gt;Vraag : Wat is GenericName voor een Type (zie opmerkingen bij AnalysisStatus.statusType&lt;br/&gt;Vraag: gestructureerd datatype &quot;DescriptionResult&quot; heeft maar 1 dataelement. Gaan we dit als enkelvoudig data-element modelleren ? Naar mijn mening is dit een modelleer foutje waar je in de implementatie last van gaat krijgen.&#160;&#160;Geldt ook voor &quot;Fraction&quot;.&lt;br/&gt;&lt;br/&gt;FeatureType: &quot;HydroObject heeft geen attribuutsoorten en geen subtypes. Wat is dat ? &lt;br/&gt;&lt;br/&gt;Hoe gaan we de volgende datatypes omzetten: &lt;br/&gt;-GenericRange&lt;br/&gt;- GM_Object&lt;br/&gt;- GM_Point&lt;br/&gt;- Measure&lt;br/&gt;- TM_INstant&lt;br/&gt;- TM_Period&lt;br/&gt;</div>
+
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('LinkedDocument');" id="LinkedDocumentTitle">Linked Document</li>
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+		</ul>
+		<div class="ItemBody" id="LinkedDocumentTable">
+			<iframe src="../../../../linkdocs/EAID_EAA1A91B_AA0F_4f02_9DCB_688BBC215E33.htm" frameborder="0" id="linkDocIFrame"></iframe>
+		</div>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">Is afgeleid</td>
+				<td width="50%" class="TableRow" valign="top">Zie package</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario73" onclick="parent.toggleDiv('detailsDIVScenario73','DetailsImageScenario73')" />Details:
+						<div id="detailsDIVScenario73" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja,Zie package<br />Default: Zie package<br />Description: Deze constructie is al dan niet afgeleid van een &quot;supplier model&quot;. Wanneer je niks opgeeft wordt afleiding vastgesteld op basis van het package waarin het voorkomt.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Release</td>
+				<td width="50%" class="TableRow" valign="top">20210601</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario74" onclick="parent.toggleDiv('detailsDIVScenario74','DetailsImageScenario74')" />Details:
+						<div id="detailsDIVScenario74" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">targetNamespace</td>
+				<td width="50%" class="TableRow" valign="top">&lt;a href=&quot;http://www.sikb.nl/immetingen&quot; target=&quot;_blank&quot; &gt;http://www.sikb.nl/immetingen&lt;/a&gt;</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario75" onclick="parent.toggleDiv('detailsDIVScenario75','DetailsImageScenario75')" />Details:
+						<div id="detailsDIVScenario75" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">xmlns</td>
+				<td width="50%" class="TableRow" valign="top">immetingen</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario76" onclick="parent.toggleDiv('detailsDIVScenario76','DetailsImageScenario76')" />Details:
+						<div id="detailsDIVScenario76" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">xsdDocument</td>
+				<td width="50%" class="TableRow" valign="top">immetingen.xsd</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario77" onclick="parent.toggleDiv('detailsDIVScenario77','DetailsImageScenario77')" />Details:
+						<div id="detailsDIVScenario77" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

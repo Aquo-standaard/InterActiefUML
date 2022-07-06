@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.5.38.4.1:1", "", "Area of Interest", "EARoot/EA5/EA38/EA4/EA1/EA10421.htm", "175.png", "14564", "0", "", "Logical diagram0","{6DEE2474-F355-49b0-AF09-861EA70D39E2}");
+tocTab[tocTab.length] = new Array("0.5.38.4.1:2", "", "Context Diagram: AI_AreaOfInterest", "EARoot/EA5/EA38/EA4/EA1/EA10423.htm", "175.png", "14565", "0", "", "Logical diagram0","{00101FF0-15BC-4d6f-9A66-8D3A35986395}");
+tocTab[tocTab.length] = new Array("0.5.38.4.1:3", "", "Context Diagram: AI_ProximityArea", "EARoot/EA5/EA38/EA4/EA1/EA10425.htm", "175.png", "14566", "0", "", "Logical diagram0","{5141AC05-6A31-44a0-8AEF-C4A7B3AB0EBD}");
+tocTab[tocTab.length] = new Array("0.5.38.4.1:4", "", "AI_AreaOfInterest", "EARoot/EA5/EA38/EA4/EA1/EA10428.htm", "5.png", "E36058", "0", "", "Class0","{921CB2C0-6EA8-4292-BE8E-66C3E0057D48}");
+tocTab[tocTab.length] = new Array("0.5.38.4.1:5", "", "«Union» AI_ProximityArea", "EARoot/EA5/EA38/EA4/EA1/EA10429.htm", "5.png", "E36059", "0", "", "Class0","{BD954EBD-F4F9-4773-BE52-C582349B8100}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.5.41.1.1.4:1", "", "Hierarchical levels of quality reporting as metadata", "EARoot/EA5/EA41/EA1/EA1/EA4/EA11010.htm", "175.png", "14713", "0", "", "Logical diagram0","{62400553-DABE-446c-B422-D2D0F1DE0D7E}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.4:2", "", "«Stanli» DATASET", "EARoot/EA5/EA41/EA1/EA1/EA4/EA11015.htm", "25.png", "E36322", "0", "", "Object0","{5872CB9A-589C-423a-9704-EEB0AA317E9B}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.4:3", "", "«Stanli» DATASET SERIES", "EARoot/EA5/EA41/EA1/EA1/EA4/EA11016.htm", "25.png", "E36324", "0", "", "Object0","{9D741D57-B7B0-4460-ACED-21792E9D1ABA}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.4:4", "", "«Stanli» INSTANCE", "EARoot/EA5/EA41/EA1/EA1/EA4/EA11017.htm", "25.png", "E36325", "0", "", "Object0","{C35EE118-A8AC-4b23-976E-DD30CC80E9B6}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.4:5", "", "«Stanli» SUBSET OF DATA", "EARoot/EA5/EA41/EA1/EA1/EA4/EA11018.htm", "25.png", "E36323", "0", "", "Object0","{8CC49541-90D9-4c49-A1B5-CEAFB9598320}");

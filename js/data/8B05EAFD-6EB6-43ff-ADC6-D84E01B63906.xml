@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.1.2:1", "", "Waterkwaliteit UGM", "EARoot/EA2/EA1/EA2/EA780.htm", "175.png", "14859", "0", "", "Logical diagram0","{711EE39D-8615-4b50-B282-51A11EE4DD85}");
+tocTab[tocTab.length] = new Array("0.2.1.2.1", "1", "Gegevensgroepen", "EARoot/EA2/EA1/EA2/EA1/EA793.htm", "4.png", "", "", "{87259EB1-8065-444f-9C51-B5EBB64F1270}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.2", "1", "Objecttypes", "EARoot/EA2/EA1/EA2/EA2/EA796.htm", "4.png", "", "", "{3211F81E-04F0-47ae-9825-28CE93B9D7D2}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.3", "", "Relatieklassen", "EARoot/EA2/EA1/EA2/EA3/EA806.htm", "4.png", "", "", "{E38BAE91-B41F-4ccd-9A02-EEFEC3C6CA58}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.4", "1", "Datatypes", "EARoot/EA2/EA1/EA2/EA4/EA807.htm", "4.png", "", "", "{B1A7CA26-D45E-4520-89FE-F7DCB94E35F6}", "Package");

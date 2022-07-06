@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.6.6.1:1", "", "«Objecttype» Waterkeringstelsel (BOI)", "EARoot/EA1/EA6/EA6/EA1/EA724.htm", "5.png", "E37656", "0", "", "Class0","{A6D42BAF-64F3-4dbc-A586-2EBCF4D13610}");
+tocTab[tocTab.length] = new Array("0.1.6.6.1:2", "", "«Objecttype» Dijktraject (BOI)", "EARoot/EA1/EA6/EA6/EA1/EA725.htm", "5.png", "E37657", "0", "", "Class0","{B594D533-787A-4e9f-9413-69FA6E5A6929}");
+tocTab[tocTab.length] = new Array("0.1.6.6.1:3", "", "«Objecttype» Waterkering (BOI)", "EARoot/EA1/EA6/EA6/EA1/EA726.htm", "5.png", "E37653", "0", "", "Class0","{44E98B9F-AE43-47a5-8C24-8262F573667A}");
+tocTab[tocTab.length] = new Array("0.1.6.6.1:4", "", "«Objecttype» Vakindeling (BOI)", "EARoot/EA1/EA6/EA6/EA1/EA727.htm", "5.png", "E37655", "0", "", "Class0","{9A0AF556-5797-432b-868E-755ED0A55E53}");
+tocTab[tocTab.length] = new Array("0.1.6.6.1:5", "", "«Objecttype» Waterkeringsectie (BOI)", "EARoot/EA1/EA6/EA6/EA1/EA728.htm", "5.png", "E37654", "0", "", "Class0","{475EAF9F-CECB-4a7e-9494-16A752024A46}");

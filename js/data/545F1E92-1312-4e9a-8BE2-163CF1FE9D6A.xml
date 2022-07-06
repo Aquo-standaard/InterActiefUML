@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.5.5.1.2:1", "", "Figure 15 — Imagery for decision support", "EARoot/EA5/EA5/EA1/EA2/EA1193.htm", "175.png", "12211", "0", "", "Logical diagram0","{30972654-EC8D-4be0-B32A-C36048EC38FB}");
+tocTab[tocTab.length] = new Array("0.5.5.1.2:2", "", "IG_DecisionSupport", "EARoot/EA5/EA5/EA1/EA2/EA1196.htm", "5.png", "E31901", "0", "", "Class0","{FA91846A-DC11-4924-9BC1-CBE04941E1DC}");

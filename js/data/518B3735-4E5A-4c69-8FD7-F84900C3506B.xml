@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.2.1.1:1", "", "«Tabel-entiteit» Bemonsteringsapparaat", "EARoot/EA2/EA1/EA1/EA766.htm", "230.png", "E37699", "0", "", "DataType0","{DB1E33DD-1F39-4a56-9007-8332E342C2EE}");
+tocTab[tocTab.length] = new Array("0.2.1.1:2", "", "«Tabel-entiteit» BiologischKenmerk", "EARoot/EA2/EA1/EA1/EA767.htm", "230.png", "E37694", "0", "", "DataType0","{94224870-0B9C-413b-95B7-B8446B37AD0F}");
+tocTab[tocTab.length] = new Array("0.2.1.1:3", "", "«Tabel-entiteit» Biotaxon", "EARoot/EA2/EA1/EA1/EA768.htm", "230.png", "E37690", "0", "", "DataType0","{5B61BC4F-74AC-4428-84D4-8B60FF9E001F}");
+tocTab[tocTab.length] = new Array("0.2.1.1:4", "", "«Tabel-entiteit» Compartiment", "EARoot/EA2/EA1/EA1/EA769.htm", "230.png", "E37689", "0", "", "DataType0","{57CAC880-3D9D-471a-8C09-4906C78B6180}");
+tocTab[tocTab.length] = new Array("0.2.1.1:5", "", "«Tabel-entiteit» Eenheid", "EARoot/EA2/EA1/EA1/EA770.htm", "230.png", "E37688", "0", "", "DataType0","{555C8440-BE1F-47c5-B358-0C875CB5D60D}");
+tocTab[tocTab.length] = new Array("0.2.1.1:6", "", "«Tabel-entiteit» Hoedanigheid", "EARoot/EA2/EA1/EA1/EA771.htm", "230.png", "E37695", "0", "", "DataType0","{AAC2566B-16C0-463e-95C3-08D4113FCD19}");
+tocTab[tocTab.length] = new Array("0.2.1.1:7", "", "«Tabel-entiteit» Kwaliteitsoordeel", "EARoot/EA2/EA1/EA1/EA772.htm", "230.png", "E37692", "0", "", "DataType0","{6559CF91-C826-4a42-9757-D68BC9C687A7}");
+tocTab[tocTab.length] = new Array("0.2.1.1:8", "", "«Tabel-entiteit» LocatietypeWaardeBepaling", "EARoot/EA2/EA1/EA1/EA773.htm", "230.png", "E37686", "0", "", "DataType0","{03A87F54-3155-4143-AEC2-BF9C98587DFE}");
+tocTab[tocTab.length] = new Array("0.2.1.1:9", "", "«Tabel-entiteit» Meetapparaat", "EARoot/EA2/EA1/EA1/EA774.htm", "230.png", "E37691", "0", "", "DataType0","{5C4B1229-3196-4572-94D7-F7DFFBCA4745}");
+tocTab[tocTab.length] = new Array("0.2.1.1:10", "", "«Tabel-entiteit» MeetObjectSoort", "EARoot/EA2/EA1/EA1/EA775.htm", "230.png", "E37693", "0", "", "DataType0","{807AE1D5-C1FE-478f-8950-EB32C4D8CF15}");
+tocTab[tocTab.length] = new Array("0.2.1.1:11", "", "«Tabel-entiteit» Orgaan", "EARoot/EA2/EA1/EA1/EA776.htm", "230.png", "E37698", "0", "", "DataType0","{D2171F16-0C53-483f-9649-395432FC5249}");
+tocTab[tocTab.length] = new Array("0.2.1.1:12", "", "«Tabel-entiteit» Parameter", "EARoot/EA2/EA1/EA1/EA777.htm", "230.png", "E37696", "0", "", "DataType0","{CC73573D-6C29-4eab-B950-D1B8FBCE8879}");
+tocTab[tocTab.length] = new Array("0.2.1.1:13", "", "«Tabel-entiteit» Waardebepalingsmethode", "EARoot/EA2/EA1/EA1/EA778.htm", "230.png", "E37687", "0", "", "DataType0","{51B22F41-398E-4a8f-8E09-C08D78241F6C}");
+tocTab[tocTab.length] = new Array("0.2.1.1:14", "", "«Tabel-entiteit» Waardebewerkingsmethode", "EARoot/EA2/EA1/EA1/EA779.htm", "230.png", "E37697", "0", "", "DataType0","{CE39DA7A-7AE0-4a48-87A9-CC958C928E53}");

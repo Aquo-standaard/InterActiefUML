@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.5.33.2.1", "1", "ISO 19144-2 LCML", "EARoot/EA5/EA33/EA2/EA1/EA7410.htm", "4.png", "", "", "{7D61FB51-6FD9-4ce8-9120-0C58B992B001}", "Package");
+tocTab[tocTab.length] = new Array("0.5.33.2.2", "1", "ISO 19144-2 Registers", "EARoot/EA5/EA33/EA2/EA2/EA7888.htm", "4.png", "", "", "{8A1A8EB0-3B40-4b96-8180-FC3FF47682DE}", "Package");

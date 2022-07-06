@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.5.23.2.10:1", "", "Fig 6 - Radar Data", "EARoot/EA5/EA23/EA2/EA10/EA5300.htm", "175.png", "13475", "0", "", "Logical diagram0","{98D79BE2-7694-4480-B2CA-A9AA80ACD094}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:2", "", "Fig 6-1 - Radar Codelists", "EARoot/EA5/EA23/EA2/EA10/EA5302.htm", "175.png", "13476", "0", "", "Logical diagram0","{D453A44C-D705-48f6-8B17-57ADB3026331}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:3", "", "«CodeList» SD_AutoFocusProcessingAlgorithmCode", "EARoot/EA5/EA23/EA2/EA10/EA5306.htm", "5.png", "E33327", "0", "", "Class0","{7DC58FD0-B706-44e1-B125-931CC36EA210}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:4", "", "«CodeList» SD_AzimuthCompressionAlgorithmCode", "EARoot/EA5/EA23/EA2/EA10/EA5307.htm", "5.png", "E33329", "0", "", "Class0","{C3834B00-C678-40c9-B669-47821F7FE610}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:5", "", "SD_CollectionPlane", "EARoot/EA5/EA23/EA2/EA10/EA5308.htm", "5.png", "E33322", "0", "", "Class0","{4A185A12-DF91-495d-B8E9-B7B3B8FE2D48}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:6", "", "SD_EmitterRelationship", "EARoot/EA5/EA23/EA2/EA10/EA5309.htm", "5.png", "E33332", "0", "", "Class0","{ECACC0A0-5B49-4618-A4BC-7FF3480CB76A}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:7", "", "«CodeList» SD_InterPulseModulationTypeCode", "EARoot/EA5/EA23/EA2/EA10/EA5310.htm", "5.png", "E33318", "0", "", "Class0","{1A9233CF-3FD8-4c80-BDE9-BA6DA0B8692F}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:8", "", "«CodeList» SD_PulseToPulseModulationTypeCode", "EARoot/EA5/EA23/EA2/EA10/EA5311.htm", "5.png", "E33328", "0", "", "Class0","{8B8899B3-BFC4-43fa-8C3A-619A7973E91E}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:9", "", "«CodeList» SD_RadarCoordinateOrientationCode", "EARoot/EA5/EA23/EA2/EA10/EA5312.htm", "5.png", "E33331", "0", "", "Class0","{D6147C56-5947-4a84-A557-A04FACBB3331}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:10", "", "«CodeList» SD_RadarCoordinateSystemCode", "EARoot/EA5/EA23/EA2/EA10/EA5313.htm", "5.png", "E33319", "0", "", "Class0","{33DF058D-1364-4b7b-AEFA-9B8A472AA083}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:11", "", "SD_RadarData", "EARoot/EA5/EA23/EA2/EA10/EA5314.htm", "5.png", "E33326", "0", "", "Class0","{6693EB4E-A82D-4bab-824A-9B7CFC702D73}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:12", "", "SD_RadarEmitter", "EARoot/EA5/EA23/EA2/EA10/EA5315.htm", "5.png", "E33324", "0", "", "Class0","{54474D8D-A9B9-4b6d-9CDE-2C39056180F0}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:13", "", "«CodeList» SD_RangeCompressionAlgorithmCode", "EARoot/EA5/EA23/EA2/EA10/EA5316.htm", "5.png", "E33317", "0", "", "Class0","{0233A637-BCFF-4f79-B168-1E8120EDE445}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:14", "", "SD_RectifiedGeometry", "EARoot/EA5/EA23/EA2/EA10/EA5317.htm", "5.png", "E33323", "0", "", "Class0","{528B9B14-3B37-4c4d-AD2B-FEC36D972F13}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:15", "", "SD_RelatedDetector", "EARoot/EA5/EA23/EA2/EA10/EA5318.htm", "5.png", "E33321", "0", "", "Class0","{491C15BC-B0BB-4f6b-B972-23D6BB4AE346}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:16", "", "SD_RelatedRadarDetector", "EARoot/EA5/EA23/EA2/EA10/EA5319.htm", "5.png", "E33330", "0", "", "Class0","{C97139A7-3FCB-4d92-9C62-E407A210C54F}");
+tocTab[tocTab.length] = new Array("0.5.23.2.10:17", "", "«CodeList» SD_WeightingCode", "EARoot/EA5/EA23/EA2/EA10/EA5320.htm", "5.png", "E33320", "0", "", "Class0","{4786B0E5-B110-4929-A944-6938785B04AB}");

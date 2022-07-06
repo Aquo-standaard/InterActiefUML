@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:4", "", "Symbol - Reusable", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4171.htm", "175.png", "13151", "0", "", "Logical diagram0","{B5DBF779-2DE5-4066-A7C4-54B581A374FF}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:5", "", "«type» SY_ExternalPointComponent", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4174.htm", "5.png", "E32880", "0", "", "Class0","{0AA71887-8414-4747-8145-801F047CB6B4}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:6", "", "«type» SY_ExternalLineComponent", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4175.htm", "5.png", "E32882", "0", "", "Class0","{F83E378B-E592-4abc-AA4A-C491CF71383F}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:7", "", "«type» SY_ExternalAreaComponent", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4176.htm", "5.png", "E32881", "0", "", "Class0","{A2F4DCF2-98FB-4dc5-B7FA-5CE7BDB2020F}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:1", "", "SY_ExternalAreaComponent", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4165.htm", "175.png", "13152", "E32881", "", "Logical diagram0","{CE0FBDD2-3C79-49a1-98A9-D38599041562}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:2", "", "SY_ExternalLineComponent", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4167.htm", "175.png", "13153", "E32882", "", "Logical diagram0","{ED117784-8C92-4fee-B08F-B54A23CDCA70}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.5:3", "", "SY_ExternalPointComponent", "EARoot/EA5/EA17/EA1/EA3/EA5/EA4169.htm", "175.png", "13154", "E32880", "", "Logical diagram0","{428363F2-1568-424b-B5FC-1F75A77D9D0F}");

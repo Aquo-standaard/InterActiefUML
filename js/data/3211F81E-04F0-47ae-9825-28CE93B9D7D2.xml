@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.2:1", "", "«Entiteittype» BioWaarneming", "EARoot/EA2/EA1/EA2/EA2/EA797.htm", "5.png", "E37716", "0", "", "Class0","{51B1F258-0A80-46ca-BAB0-64B7BCE77321}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:2", "", "«Entiteittype» Waarneming", "EARoot/EA2/EA1/EA2/EA2/EA798.htm", "5.png", "E37715", "0", "", "Class0","{42C82104-12F1-4c66-8F76-0A23A5DAA370}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:3", "", "«Entiteittype» WaarnemingsProces", "EARoot/EA2/EA1/EA2/EA2/EA799.htm", "5.png", "E37718", "0", "", "Class0","{72E5AA97-2D53-482a-879A-382B6CDC2B50}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:4", "", "«Entiteittype» Analyse", "EARoot/EA2/EA1/EA2/EA2/EA800.htm", "5.png", "E37713", "0", "", "Class0","{2EB3CA81-F169-4004-BC60-EBE36B151478}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:5", "", "«Entiteittype» AnalyseProces", "EARoot/EA2/EA1/EA2/EA2/EA801.htm", "5.png", "E37717", "0", "", "Class0","{627551D6-34D2-41e0-A600-5A36D27040F5}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:6", "", "«Entiteittype» MonsternemingsProces", "EARoot/EA2/EA1/EA2/EA2/EA802.htm", "5.png", "E37712", "0", "", "Class0","{20F34391-2F61-4022-B1B6-A961BDCF2F26}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:7", "", "«Entiteittype» MeetObject", "EARoot/EA2/EA1/EA2/EA2/EA803.htm", "5.png", "E37719", "0", "", "Class0","{7B95566F-97D4-43f7-8BBB-BD821EFF8ACA}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:8", "", "«Entiteittype» BerekendeAnalyse", "EARoot/EA2/EA1/EA2/EA2/EA804.htm", "5.png", "E37714", "0", "", "Class0","{415A6E9C-07E2-41fb-A929-97EDBE222703}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:9", "", "«Entiteittype» Monster", "EARoot/EA2/EA1/EA2/EA2/EA805.htm", "5.png", "E37720", "0", "", "Class0","{FFB5E667-6D9E-4455-9E74-2D5E66E666E3}");

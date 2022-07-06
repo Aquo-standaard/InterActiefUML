@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.5.38.5.1.2:1", "", "Edge CD ", "EARoot/EA5/EA38/EA5/EA1/EA2/EA10639.htm", "175.png", "14647", "0", "", "Logical diagram0","{02AC281E-791C-40be-B721-71EAD1A8B314}");
+tocTab[tocTab.length] = new Array("0.5.38.5.1.2:2", "", "Fig D6: Main", "EARoot/EA5/EA38/EA5/EA1/EA2/EA10641.htm", "175.png", "14645", "0", "", "Logical diagram0","{A003C6A9-565F-4189-AFCB-39928037982B}");
+tocTab[tocTab.length] = new Array("0.5.38.5.1.2:3", "", "Node CD ", "EARoot/EA5/EA38/EA5/EA1/EA2/EA10643.htm", "175.png", "14648", "0", "", "Logical diagram0","{96E66382-DC50-401d-A0C4-C4DF01EE8615}");
+tocTab[tocTab.length] = new Array("0.5.38.5.1.2:4", "", "Scratch Diagram", "EARoot/EA5/EA38/EA5/EA1/EA2/EA10645.htm", "175.png", "14646", "0", "", "Logical diagram0","{2A796DDE-7142-4494-B797-2CD416099B77}");

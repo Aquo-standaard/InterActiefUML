@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.5.31.2:1", "", "Context Diagram: LocalisedCharacterString", "EARoot/EA5/EA31/EA2/EA7226.htm", "175.png", "14125", "0", "", "Logical diagram0","{EDFC2772-F4A4-4e9c-9D59-B7CB417C4264}");
+tocTab[tocTab.length] = new Array("0.5.31.2:2", "", "Context Diagram: PT_FreeText", "EARoot/EA5/EA31/EA2/EA7228.htm", "175.png", "14123", "0", "", "Logical diagram0","{F96088C8-67E0-4e3b-B0E0-70E426FA07B9}");
+tocTab[tocTab.length] = new Array("0.5.31.2:3", "", "Context Diagram: PT_Locale", "EARoot/EA5/EA31/EA2/EA7230.htm", "175.png", "14124", "0", "", "Logical diagram0","{0739FCBC-2FEB-4250-8EDB-7C45039FE352}");
+tocTab[tocTab.length] = new Array("0.5.31.2:4", "", "Context Diagram: PT_LocaleContainer", "EARoot/EA5/EA31/EA2/EA7232.htm", "175.png", "14126", "0", "", "Logical diagram0","{4650594F-022A-4704-998B-A0580F949105}");
+tocTab[tocTab.length] = new Array("0.5.31.2:5", "", "Fig3 - Free text and Localized Character String", "EARoot/EA5/EA31/EA2/EA7234.htm", "175.png", "14122", "0", "", "Logical diagram0","{ABD59516-16FC-4bb2-BCF5-115943ABBA27}");
+tocTab[tocTab.length] = new Array("0.5.31.2:6", "", "Fig5 - Translation container", "EARoot/EA5/EA31/EA2/EA7236.htm", "175.png", "14121", "0", "", "Logical diagram0","{BE38F2FD-CD08-4301-A5B4-E2612D1D1D7F}");
+tocTab[tocTab.length] = new Array("0.5.31.2:7", "", "LocalisedCharacterString", "EARoot/EA5/EA31/EA2/EA7239.htm", "5.png", "E33867", "0", "", "Class0","{AE1AC547-B120-4488-A63F-60A8A7441D7A}");
+tocTab[tocTab.length] = new Array("0.5.31.2:8", "", "PT_FreeText", "EARoot/EA5/EA31/EA2/EA7240.htm", "5.png", "E33868", "0", "", "Class0","{F8A23D50-CB8F-4c91-BD7F-C2082467D81A}");
+tocTab[tocTab.length] = new Array("0.5.31.2:9", "", "PT_Locale", "EARoot/EA5/EA31/EA2/EA7241.htm", "5.png", "E33865", "0", "", "Class0","{4F7072DC-5423-4978-8EA2-1DE43135931B}");
+tocTab[tocTab.length] = new Array("0.5.31.2:10", "", "PT_LocaleContainer", "EARoot/EA5/EA31/EA2/EA7242.htm", "5.png", "E33866", "0", "", "Class0","{7072D0FC-9509-4477-8956-2318C3ABA0D8}");

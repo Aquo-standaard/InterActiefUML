@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.4.1:1", "", "«Codelijst» Bemonsteringsapparaat", "EARoot/EA1/EA4/EA1/EA136.htm", "230.png", "E37122", "0", "", "DataType0","{CD21EAA7-88E1-4880-AF65-97A4D67884F6}");
+tocTab[tocTab.length] = new Array("0.1.4.1:2", "", "«Codelijst» BiologischKenmerk", "EARoot/EA1/EA4/EA1/EA137.htm", "230.png", "E37126", "0", "", "DataType0","{EBF6C7C5-CAFE-47b8-A912-C3F2863605A8}");
+tocTab[tocTab.length] = new Array("0.1.4.1:3", "", "«Codelijst» Biotaxon", "EARoot/EA1/EA4/EA1/EA138.htm", "230.png", "E37124", "0", "", "DataType0","{D66E7FD9-FEB5-439c-94DC-3D26055E5133}");
+tocTab[tocTab.length] = new Array("0.1.4.1:4", "", "«Codelijst» Compartiment", "EARoot/EA1/EA4/EA1/EA139.htm", "230.png", "E37116", "0", "", "DataType0","{590D8D2B-91B7-458a-9C9A-B9C3C0BBEA4A}");
+tocTab[tocTab.length] = new Array("0.1.4.1:5", "", "«Codelijst» Eenheid", "EARoot/EA1/EA4/EA1/EA140.htm", "230.png", "E37119", "0", "", "DataType0","{9FCD2F40-AAF6-4941-970A-0054FCCE57B5}");
+tocTab[tocTab.length] = new Array("0.1.4.1:6", "", "«Codelijst» Hoedanigheid", "EARoot/EA1/EA4/EA1/EA141.htm", "230.png", "E37125", "0", "", "DataType0","{E8CBC181-5216-46d5-82D0-DC09C5C1340C}");
+tocTab[tocTab.length] = new Array("0.1.4.1:7", "", "«Codelijst» Kwaliteitsoordeel", "EARoot/EA1/EA4/EA1/EA142.htm", "230.png", "E37117", "0", "", "DataType0","{5D69A9CF-41FA-42fd-8BDA-7AB9C26ED5E8}");
+tocTab[tocTab.length] = new Array("0.1.4.1:8", "", "«Codelijst» LocatietypeWaardeBepaling", "EARoot/EA1/EA4/EA1/EA143.htm", "230.png", "E37115", "0", "", "DataType0","{5366F88E-1ECB-4e12-9533-D1D76528202B}");
+tocTab[tocTab.length] = new Array("0.1.4.1:9", "", "«Codelijst» Meetapparaat", "EARoot/EA1/EA4/EA1/EA144.htm", "230.png", "E37118", "0", "", "DataType0","{86C0BE23-FF51-4806-A112-376BF01CDB02}");
+tocTab[tocTab.length] = new Array("0.1.4.1:10", "", "«Enumeration» MeetObjectSoort", "EARoot/EA1/EA4/EA1/EA145.htm", "230.png", "E37114", "0", "", "DataType0","{257FB668-6885-463e-AA82-3715492B25E4}");
+tocTab[tocTab.length] = new Array("0.1.4.1:11", "", "«Codelijst» Orgaan", "EARoot/EA1/EA4/EA1/EA146.htm", "230.png", "E37123", "0", "", "DataType0","{D1EB9509-6D4D-41e9-BBB7-5AF9B5974D51}");
+tocTab[tocTab.length] = new Array("0.1.4.1:12", "", "«Codelijst» Parameter", "EARoot/EA1/EA4/EA1/EA147.htm", "230.png", "E37120", "0", "", "DataType0","{C03CD1C6-B9D5-488e-B88A-D4C1FD8051F7}");
+tocTab[tocTab.length] = new Array("0.1.4.1:13", "", "«Codelijst» Waardebepalingsmethode", "EARoot/EA1/EA4/EA1/EA148.htm", "230.png", "E37121", "0", "", "DataType0","{C7429F7B-D00B-4aa9-B2B3-0E495DF49657}");
+tocTab[tocTab.length] = new Array("0.1.4.1:14", "", "«Codelijst» Waardebewerkingsmethode", "EARoot/EA1/EA4/EA1/EA149.htm", "230.png", "E37113", "0", "", "DataType0","{234ECBD0-EABD-433f-99EF-DEBBAC4E2F1B}");

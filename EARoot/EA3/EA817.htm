@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Waterkwaliteit BSM</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Waterkwaliteit BSM", " : "))</script> www.aquo.nl/imwa : Public  &lt;&lt;Koppelvlak&gt;&gt; Package</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">21-4-2021 18:04:22</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">23-3-2022 14:08:03</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">maxwe</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{5392E3BB-397B-49c2-A937-8A68DC9DD04E}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+		</ul>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">aanvullendeElementen genereren</td>
+				<td width="50%" class="TableRow" valign="top">Ja</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4116" onclick="parent.toggleDiv('detailsDIVScenario4116','DetailsImageScenario4116')" />Details:
+						<div id="detailsDIVScenario4116" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja<br />Default: Ja<br />Description: Geeft aan of er in de XML-schema&#39;s &#39;aanvullendeElementen&#39; elementen moeten worden mee gegenereerd. Standaard worden deze optioneel mee gegenereerd. Kan alleen op Koppelvlak niveau worden gedefinieerd. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">e-types genereren</td>
+				<td width="50%" class="TableRow" valign="top">Ja</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4117" onclick="parent.toggleDiv('detailsDIVScenario4117','DetailsImageScenario4117')" />Details:
+						<div id="detailsDIVScenario4117" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja<br />Default: Ja<br />Description: Geeft aan of de -e complexTypes in de XML-schema&#39;s mee gegenereerd moeten worden. Standaard worden deze mee gegenereerd. Kan alleen op Koppelvlak niveau worden gedefinieerd. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">extraElementen genereren</td>
+				<td width="50%" class="TableRow" valign="top">Ja</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4118" onclick="parent.toggleDiv('detailsDIVScenario4118','DetailsImageScenario4118')" />Details:
+						<div id="detailsDIVScenario4118" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja<br />Default: Ja<br />Description: Geeft aan of er in de XML-schema&#39;s &#39;extraElementen&#39; elementen moeten worden mee gegenereerd. Standaard worden deze optioneel mee gegenereerd. Kan alleen op Koppelvlak niveau worden gedefinieerd. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Imvertor</td>
+				<td width="50%" class="TableRow" valign="top">model</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4119" onclick="parent.toggleDiv('detailsDIVScenario4119','DetailsImageScenario4119')" />Details:
+						<div id="detailsDIVScenario4119" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: model<br />Default: model<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Is afgeleid</td>
+				<td width="50%" class="TableRow" valign="top">Zie package</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4120" onclick="parent.toggleDiv('detailsDIVScenario4120','DetailsImageScenario4120')" />Details:
+						<div id="detailsDIVScenario4120" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja,Zie package<br />Default: Zie package<br />Description: Deze constructie is al dan niet afgeleid van een &quot;supplier model&quot;. Wanneer je niks opgeeft wordt afleiding vastgesteld op basis van het package waarin het voorkomt.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Koppelvlak-naam</td>
+				<td width="50%" class="TableRow" valign="top">Waterkwaliteit metingen</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4121" onclick="parent.toggleDiv('detailsDIVScenario4121','DetailsImageScenario4121')" />Details:
+						<div id="detailsDIVScenario4121" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: De naam van het koppelvlak.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Lege enumeration toegestaan</td>
+				<td width="50%" class="TableRow" valign="top">Ja</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4122" onclick="parent.toggleDiv('detailsDIVScenario4122','DetailsImageScenario4122')" />Details:
+						<div id="detailsDIVScenario4122" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja<br />Default: Ja<br />Description: Geeft aan of er aan elke enumeratie simpleType ook een lege enumeratie toegevoegd moet worden. Standaard wordt dit mee gegenereerd. Kan zowel op Koppelvlak niveau als op enumeration niveau worden gedefinieerd waarbij die op attribuutniveau die op op Koppelvlak niveau overrulled. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Naam</td>
+				<td width="50%" class="TableRow" valign="top">Waterkwaliteit metingen</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4123" onclick="parent.toggleDiv('detailsDIVScenario4123','DetailsImageScenario4123')" />Details:
+						<div id="detailsDIVScenario4123" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">noValue toegestaan</td>
+				<td width="50%" class="TableRow" valign="top">Ja</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4124" onclick="parent.toggleDiv('detailsDIVScenario4124','DetailsImageScenario4124')" />Details:
+						<div id="detailsDIVScenario4124" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Ja<br />Default: Ja<br />Description: Geeft aan of het StUF:noValue attribute in de XML-schema&#39;s mee gegenereerd wordt. Standaard wordt dit mee gegenereerd. Kan alleen op Koppelvlak niveau worden gedefinieerd. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">project_url</td>
+				<td width="50%" class="TableRow" valign="top">&lt;a href=&quot;http://www.tobedefined.nl&quot; target=&quot;_blank&quot; &gt;www.tobedefined.nl&lt;/a&gt;</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4125" onclick="parent.toggleDiv('detailsDIVScenario4125','DetailsImageScenario4125')" />Details:
+						<div id="detailsDIVScenario4125" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Url van het bij het koppelvlak horende GitHub project.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Release</td>
+				<td width="50%" class="TableRow" valign="top">20220321</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4126" onclick="parent.toggleDiv('detailsDIVScenario4126','DetailsImageScenario4126')" />Details:
+						<div id="detailsDIVScenario4126" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Dit bevat de releasedatum in het format yyyymmdd . De releasedatum wordt mede gebruikt om een model, koppelvlak of bericht uniek te identificeren in Imvertor.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">serialisatie</td>
+				<td width="50%" class="TableRow" valign="top">hal+json</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4127" onclick="parent.toggleDiv('detailsDIVScenario4127','DetailsImageScenario4127')" />Details:
+						<div id="detailsDIVScenario4127" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: hal+json,json<br />Description: Het JSON formaat waarin het koppelvlak uitgevoerd moet worden.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Supplier-name</td>
+				<td width="50%" class="TableRow" valign="top">Waterkwaliteit UGM</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4128" onclick="parent.toggleDiv('detailsDIVScenario4128','DetailsImageScenario4128')" />Details:
+						<div id="detailsDIVScenario4128" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Dit bevat de naam van het suppliermodel waarvan een model hergebruik maakt. Er zijn meerdere waardes mogelijk, gescheiden door een ; (puntkomma) Volgorde moet corresponderen met die in Supplier-project en Supplier-release. Alleen opnemen wanneer van afleiding sprake is.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Supplier-project</td>
+				<td width="50%" class="TableRow" valign="top">UGM</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4129" onclick="parent.toggleDiv('detailsDIVScenario4129','DetailsImageScenario4129')" />Details:
+						<div id="detailsDIVScenario4129" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Dit bevat de naam van project waarbinnen het suppliermodel waarvan een model hergebruik maakt is opgenomen. Er zijn meerdere waardes mogelijk, gescheiden door een ; (puntkomma) . Volgorde moet corresponderen met die in Supplier-name en Supplier-release. Alleen opnemen wanneer van afleiding sprake is.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">Supplier-release</td>
+				<td width="50%" class="TableRow" valign="top">20210601</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4130" onclick="parent.toggleDiv('detailsDIVScenario4130','DetailsImageScenario4130')" />Details:
+						<div id="detailsDIVScenario4130" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Description: Dit bevat de releasedatum in het format yyyymmdd van het suppliermodel waarvan een model hergebruik maakt. Er zijn meerdere waardes mogelijk, gescheiden door een ; (puntkomma) . Volgorde moet corresponderen met die in supplier-name en supplier-project. Alleen opnemen wanneer van afleiding sprake is.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">tijdstipRegistratie genereren</td>
+				<td width="50%" class="TableRow" valign="top">Optioneel</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4131" onclick="parent.toggleDiv('detailsDIVScenario4131','DetailsImageScenario4131')" />Details:
+						<div id="detailsDIVScenario4131" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Optioneel,Verplicht<br />Default: Optioneel<br />Description: Geeft aan of en zo ja hoe in de XML-schema&#39;s de &#39;tijdstipRegistratie&#39; elementen worden mee gegenereerd. Standaard worden deze optioneel mee gegenereerd. Kan alleen op Koppelvlak niveau worden gedefinieerd. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">tijdvakGeldigheid genereren</td>
+				<td width="50%" class="TableRow" valign="top">Optioneel</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4132" onclick="parent.toggleDiv('detailsDIVScenario4132','DetailsImageScenario4132')" />Details:
+						<div id="detailsDIVScenario4132" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: Nee,Optioneel,Verplicht<br />Default: Optioneel<br />Description: Geeft aan of en zo ja hoe in de XML-schema&#39;s de &#39;tijdvakGeldigheid&#39; elementen worden mee gegenereerd. Standaard worden deze optioneel mee gegenereerd. Kan alleen op Koppelvlak niveau worden gedefinieerd. Heeft alleen een functie bij het genereren van StUF schema&#39;s.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">toelichting opnemen vanaf</td>
+				<td width="50%" class="TableRow" valign="top">UGM</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4133" onclick="parent.toggleDiv('detailsDIVScenario4133','DetailsImageScenario4133')" />Details:
+						<div id="detailsDIVScenario4133" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: SIM,UGM,BSM<br />Default: SIM<br />Description: Het model vanaf waar de toelichting moet worden opgenomen.<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

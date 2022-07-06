@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.1.3:1", "", "Meting-bericht", "EARoot/EA3/EA1/EA3/EA866.htm", "175.png", "14862", "0", "", "Logical diagram0","{1270542A-B4C1-4028-9E8C-32D23DD6460B}");
+tocTab[tocTab.length] = new Array("0.3.1.3:2", "", "«Entiteittype» Meting", "EARoot/EA3/EA1/EA3/EA869.htm", "5.png", "E37765", "0", "", "Class0","{7483EBA4-8BE7-481e-8202-C5B3D6802853}");
+tocTab[tocTab.length] = new Array("0.3.1.3:3", "", "«Entiteittype» Metingparameters", "EARoot/EA3/EA1/EA3/EA870.htm", "5.png", "E37763", "0", "", "Class0","{328BB7AA-A259-47fd-B26A-71F4CD4AE22E}");
+tocTab[tocTab.length] = new Array("0.3.1.3:4", "", "«Getberichttype» Getmetingen", "EARoot/EA3/EA1/EA3/EA871.htm", "5.png", "E37766", "0", "", "Class0","{ACE6D65F-5614-425a-842D-2D5BB01B3289}");
+tocTab[tocTab.length] = new Array("0.3.1.3:5", "", "«Padtype» /metingen", "EARoot/EA3/EA1/EA3/EA872.htm", "5.png", "E37764", "0", "", "Class0","{3EFBE502-107C-4069-9342-6A7D5D6B2B41}");

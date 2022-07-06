@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:1", "", "SurfacewHoles_ProfileDefinition", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9890.htm", "175.png", "14436", "0", "", "Logical diagram0","{5CB07F47-5104-4010-9383-FFABA08E02DA}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:2", "", "SurfacewHoles_ProfileInstance", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9892.htm", "177.png", "14437", "0", "", "Object diagram0","{7F34E25C-F163-4b0e-9879-EDF54682989F}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:3", "", "PolyInnerRing: SurfacewHoles_FaceString", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9901.htm", "25.png", "E35828", "0", "", "Object0","{7BCC9CD1-E074-40b5-9E95-ACE99A0CA5CD}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:4", "", "PolyOuterBoundary: SurfacewHoles_FaceString", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9902.htm", "25.png", "E35827", "0", "", "Object0","{1776470E-FCA9-4473-8F91-5AC3B0BB9387}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:5", "", "PolywHole: SurfacewHoles_SpatialUnit", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9903.htm", "25.png", "E35829", "0", "", "Object0","{A0ADBDC4-2C33-4b83-A56E-A6229BE8A17A}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:6", "", "SurfacewHoles_FaceString", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9904.htm", "5.png", "E35823", "0", "", "Class0","{5D33F45F-EF4F-475d-8AF3-9BD03EE918A5}");
+tocTab[tocTab.length] = new Array("0.5.37.1.4.7:7", "", "SurfacewHoles_SpatialUnit", "EARoot/EA5/EA37/EA1/EA4/EA7/EA9905.htm", "5.png", "E35824", "0", "", "Class0","{BD1ED6A9-E541-4bd9-AD3E-BCED5122AD93}");

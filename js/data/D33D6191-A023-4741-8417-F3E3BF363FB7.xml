@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.23.2.8:1", "", "Fig 7 - Moving Target Sensor Data Description", "EARoot/EA5/EA23/EA2/EA8/EA5261.htm", "175.png", "13470", "0", "", "Logical diagram0","{EB4AF2F6-BB13-4173-B31D-CDE017ECFE1D}");
+tocTab[tocTab.length] = new Array("0.5.23.2.8:2", "", "SD_Dwell", "EARoot/EA5/EA23/EA2/EA8/EA5265.htm", "5.png", "E33292", "0", "", "Class0","{49C49A24-0B7C-4f9c-86B5-60FCC32E3B07}");
+tocTab[tocTab.length] = new Array("0.5.23.2.8:3", "", "SD_HighResolutionScatterer", "EARoot/EA5/EA23/EA2/EA8/EA5266.htm", "5.png", "E33296", "0", "", "Class0","{A37772CD-0FB4-4da3-AE26-2790C28414D8}");
+tocTab[tocTab.length] = new Array("0.5.23.2.8:4", "", "SD_HighResolutionTarget", "EARoot/EA5/EA23/EA2/EA8/EA5267.htm", "5.png", "E33291", "0", "", "Class0","{28F7CF2D-DFD7-4817-8C49-2A2A6BC5227F}");
+tocTab[tocTab.length] = new Array("0.5.23.2.8:5", "", "SD_MovingTarget", "EARoot/EA5/EA23/EA2/EA8/EA5268.htm", "5.png", "E33294", "0", "", "Class0","{951F8591-F49F-43da-94AE-33686603924F}");
+tocTab[tocTab.length] = new Array("0.5.23.2.8:6", "", "SD_MTIGroup", "EARoot/EA5/EA23/EA2/EA8/EA5269.htm", "5.png", "E33293", "0", "", "Class0","{76464797-F797-4263-AC18-FA1F8F967C8D}");
+tocTab[tocTab.length] = new Array("0.5.23.2.8:7", "", "SD_MTIPositionalUncertainty", "EARoot/EA5/EA23/EA2/EA8/EA5270.htm", "5.png", "E33290", "0", "", "Class0","{0E9D3B49-8C84-4736-9005-8469A66FFD35}");

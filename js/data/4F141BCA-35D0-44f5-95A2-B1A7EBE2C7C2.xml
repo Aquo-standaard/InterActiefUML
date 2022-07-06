@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.5.31.4:1", "", "Context Diagram: Anchor", "EARoot/EA5/EA31/EA4/EA7268.htm", "175.png", "14137", "0", "", "Logical diagram0","{4C4FD2BC-9AE0-4a58-A4D3-86B51F9D72CE}");
+tocTab[tocTab.length] = new Array("0.5.31.4:2", "", "Context Diagram: FileName", "EARoot/EA5/EA31/EA4/EA7270.htm", "175.png", "14138", "0", "", "Logical diagram0","{C153E96F-806A-4863-9F2F-874DEC8F7C60}");
+tocTab[tocTab.length] = new Array("0.5.31.4:3", "", "Context Diagram: MimeFileType", "EARoot/EA5/EA31/EA4/EA7272.htm", "175.png", "14139", "0", "", "Logical diagram0","{A3A051DF-9E1B-47c1-BA93-4921F7F6A6F8}");
+tocTab[tocTab.length] = new Array("0.5.31.4:4", "", "Context Diagram: URI", "EARoot/EA5/EA31/EA4/EA7274.htm", "175.png", "14140", "0", "", "Logical diagram0","{D66AEA83-BC58-4c30-AFC3-D7E6D93456A3}");
+tocTab[tocTab.length] = new Array("0.5.31.4:5", "", "Fig2 - Extensions to support web environments", "EARoot/EA5/EA31/EA4/EA7276.htm", "175.png", "14136", "0", "", "Logical diagram0","{37F3592B-7CD0-4ce8-A8A7-97667B1B1154}");
+tocTab[tocTab.length] = new Array("0.5.31.4:6", "", "Anchor", "EARoot/EA5/EA31/EA4/EA7279.htm", "5.png", "E33877", "0", "", "Class0","{56084F25-91F6-462f-8615-4AC9E743326A}");
+tocTab[tocTab.length] = new Array("0.5.31.4:7", "", "FileName", "EARoot/EA5/EA31/EA4/EA7280.htm", "5.png", "E33876", "0", "", "Class0","{555553F8-C4F7-4aca-B945-9167F0AEDB20}");
+tocTab[tocTab.length] = new Array("0.5.31.4:8", "", "MimeFileType", "EARoot/EA5/EA31/EA4/EA7281.htm", "5.png", "E33875", "0", "", "Class0","{0179A1BE-95C8-4a95-8117-1E8AACFE235B}");
+tocTab[tocTab.length] = new Array("0.5.31.4:9", "", "«type» URI", "EARoot/EA5/EA31/EA4/EA7282.htm", "5.png", "E33878", "0", "", "Class0","{AD4B472F-A3CA-4084-BBB5-C6EC6B3DD127}");

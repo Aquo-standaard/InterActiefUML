@@ -1,0 +1,831 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Text::CharacterString</title>
+<link href="../../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("CharacterString", " : "))</script>  : Public  &lt;&lt;type&gt;&gt; Class</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10-4-2008 12:15:53</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">10-4-2008 12:15:53</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{AF7C81A6-B1C1-4469-A09F-B97989024A14}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="../../../../../EA5/EA1/EA3/EA1207.htm">Context Diagram: IG_ImageValues</a>, <a href="../../../../../EA5/EA1/EA3/EA1211.htm">Context Diagram: IG_PhysicalQuantity</a>, <a href="../../EA1/EA1/EA1332.htm">Context Diagram: UnitOfMeasure</a>, <a href="../../EA2/EA1/EA1416.htm">Context Diagram: Code</a>, <a href="../../EA2/EA2/EA1473.htm">Context Diagram: TypeName</a>, <a href="../../EA2/EA2/EA1467.htm">Context Diagram: MemberName</a>, <a href="../../EA2/EA3/EA1495.htm">Context Diagram: OperationType</a>, <a href="../EA1/EA1558.htm">Context Diagram: Date</a>, <a href="../EA1/EA1560.htm">Context Diagram: DatePrecision</a>, <a href="../EA1/EA1556.htm">Context Diagram: ClockTime</a>, <a href="EA1624.htm">Context Diagram: CharacterString</a>, <a href="EA1626.htm">Context Diagram: Sequence<Character></a>, <a href="EA1618.htm">Character String</a>, <a href="../../../../../EA8/EA1/EA1/EA2202.htm">Context Diagram: TM_PeriodDuration</a>, <a href="../../../../../EA8/EA1/EA1/EA2192.htm">Context Diagram: TM_IntervalLength</a>, <a href="../../../../../EA8/EA1/EA2/EA2263.htm">Context Diagram: TM_CoordinateSystem</a>, <a href="../../../../../EA8/EA1/EA2/EA2269.htm">Context Diagram: TM_OrdinalEra</a>, <a href="../../../../../EA8/EA1/EA2/EA2255.htm">Context Diagram: TM_CalendarEra</a>, <a href="../../../../../EA8/EA1/EA2/EA2257.htm">Context Diagram: TM_Clock</a>, <a href="../../../../../EA8/EA1/EA2/EA2251.htm">Context Diagram: TM_CalDate</a>, <a href="../../../../../EA10/EA1/EA1/EA2426.htm">Context Diagram: GF_Constraint</a>, <a href="../../../../../EA10/EA1/EA1/EA2436.htm">Context Diagram: GF_InheritanceRelation</a>, <a href="../../../../../EA10/EA1/EA1/EA2424.htm">Context Diagram: GF_AttributeType</a>, <a href="../../../../../EA10/EA1/EA1/EA2442.htm">Context Diagram: GF_Operation</a>, <a href="../../../../../EA10/EA1/EA1/EA2434.htm">Context Diagram: GF_FeatureType</a>, <a href="../../../../../EA10/EA1/EA1/EA2444.htm">Context Diagram: GF_PropertyType</a>, <a href="../../../../../EA13/EA2/EA2/EA3140.htm">Context Diagram: MD_Metadata</a>, <a href="../../../../../EA13/EA2/EA3/EA3161.htm">Context Diagram: MD_Identification</a>, <a href="../../../../../EA13/EA2/EA3/EA3155.htm">Context Diagram: MD_BrowseGraphic</a>, <a href="../../../../../EA13/EA2/EA3/EA3159.htm">Context Diagram: MD_DataIdentification</a>, <a href="../../../../../EA13/EA2/EA3/EA3177.htm">Context Diagram: MD_Usage</a>, <a href="../../../../../EA13/EA2/EA3/EA3163.htm">Context Diagram: MD_Keywords</a>, <a href="../../../../../EA13/EA2/EA4/EA3204.htm">Context Diagram: MD_Constraints</a>, <a href="../../../../../EA13/EA2/EA4/EA3206.htm">Context Diagram: MD_LegalConstraints</a>, <a href="../../../../../EA13/EA2/EA4/EA3210.htm">Context Diagram: MD_SecurityConstraints</a>, <a href="../../../../../EA13/EA2/EA5/EA3277.htm">Context Diagram: LI_ProcessStep</a>, <a href="../../../../../EA13/EA2/EA5/EA3279.htm">Context Diagram: LI_Source</a>, <a href="../../../../../EA13/EA2/EA5/EA3275.htm">Context Diagram: LI_Lineage</a>, <a href="../../../../../EA13/EA2/EA5/EA3233.htm">Context Diagram: DQ_ConformanceResult</a>, <a href="../../../../../EA13/EA2/EA5/EA3255.htm">Context Diagram: DQ_QuantitativeResult</a>, <a href="../../../../../EA13/EA2/EA5/EA3239.htm">Context Diagram: DQ_Element</a>, <a href="../../../../../EA13/EA2/EA6/EA3327.htm">Context Diagram: MD_MaintenanceInformation</a>, <a href="../../../../../EA13/EA2/EA6/EA3331.htm">Context Diagram: MD_ScopeDescription</a>, <a href="../../../../../EA13/EA2/EA7/EA3353.htm">Context Diagram: MD_Georeferenceable</a>, <a href="../../../../../EA13/EA2/EA7/EA3351.htm">Context Diagram: MD_Georectified</a>, <a href="../../../../../EA13/EA2/EA8/EA3385.htm">Context Diagram: RS_Identifier</a>, <a href="../../../../../EA13/EA2/EA8/EA3381.htm">Context Diagram: MD_Identifier</a>, <a href="../../../../../EA13/EA2/EA9/EA3404.htm">Context Diagram: MD_FeatureCatalogueDescription</a>, <a href="../../../../../EA13/EA2/EA9/EA3410.htm">Context Diagram: MD_RangeDimension</a>, <a href="../../../../../EA13/EA2/EA11/EA3444.htm">Context Diagram: MD_Medium</a>, <a href="../../../../../EA13/EA2/EA11/EA3434.htm">Context Diagram: MD_DigitalTransferOptions</a>, <a href="../../../../../EA13/EA2/EA11/EA3450.htm">Context Diagram: MD_StandardOrderProcess</a>, <a href="../../../../../EA13/EA2/EA11/EA3442.htm">Context Diagram: MD_Format</a>, <a href="../../../../../EA13/EA2/EA12/EA3468.htm">Context Diagram: MD_ExtendedElementInformation</a>, <a href="../../../../../EA13/EA2/EA13/EA3484.htm">Context Diagram: MD_ApplicationSchemaInformation</a>, <a href="../../../../../EA13/EA2/EA14/EA3494.htm">Context Diagram: EX_Extent</a>, <a href="../../../../../EA13/EA2/EA15/EA3542.htm">Context Diagram: CI_ResponsibleParty</a>, <a href="../../../../../EA13/EA2/EA15/EA3528.htm">Context Diagram: CI_Citation</a>, <a href="../../../../../EA13/EA2/EA15/EA3526.htm">Context Diagram: CI_Address</a>, <a href="../../../../../EA13/EA2/EA15/EA3538.htm">Context Diagram: CI_OnlineResource</a>, <a href="../../../../../EA13/EA2/EA15/EA3530.htm">Context Diagram: CI_Contact</a>, <a href="../../../../../EA13/EA2/EA15/EA3548.htm">Context Diagram: CI_Telephone</a>, <a href="../../../../../EA13/EA2/EA15/EA3546.htm">Context Diagram: CI_Series</a>, <a href="../../../../../EA14/EA1/EA2/EA3607.htm">Context Diagram: LE_Algorithm</a>, <a href="../../../../../EA14/EA1/EA2/EA3615.htm">Context Diagram: LE_Processing</a>, <a href="../../../../../EA14/EA1/EA2/EA3609.htm">Context Diagram: LE_AlgorithmDescription</a>, <a href="../../../../../EA14/EA1/EA2/EA3619.htm">Context Diagram: LE_ProcessStepReport</a>, <a href="../../../../../EA14/EA1/EA3/EA3653.htm">Context Diagram: MI_Georeferencable</a>, <a href="../../../../../EA14/EA1/EA5/EA3691.htm">Context Diagram: MI_Instrument</a>, <a href="../../../../../EA14/EA1/EA5/EA3697.htm">Context Diagram: MI_Operation</a>, <a href="../../../../../EA14/EA1/EA5/EA3701.htm">Context Diagram: MI_Platform</a>, <a href="../../../../../EA14/EA1/EA5/EA3693.htm">Context Diagram: MI_Objective</a>, <a href="../../../../../EA16/EA1/EA3847.htm">Context Diagram: codeList</a>, <a href="../../../../../EA16/EA1/EA3849.htm">Context Diagram: codevalue</a>, <a href="../../../../../EA16/EA1/EA3861.htm">Context Diagram: enumvalue</a>, <a href="../../../../../EA16/EA1/EA3863.htm">Context Diagram: externalType</a>, <a href="../../../../../EA16/EA1/EA3845.htm">Context Diagram: CFG</a>, <a href="../../../../../EA16/EA1/EA3855.htm">Context Diagram: definition</a>, <a href="../../../../../EA16/EA1/EA3841.htm">Context Diagram: basicType</a>, <a href="../../../../../EA16/EA2/EA3903.htm">Context Diagram: EM_EncodingRule</a>, <a href="../../../../../EA16/EA3/EA3922.htm">Context Diagram: GI_Root</a>, <a href="../../../../../EA16/EA3/EA3918.htm">Context Diagram: GI_Delete</a>, <a href="../../../../../EA16/EA4/EA3951.htm">Context Diagram: IM_Object</a>, <a href="../../../../../EA16/EA4/EA3953.htm">Context Diagram: IM_ObjectReference</a>, <a href="../../../../../EA16/EA4/EA3955.htm">Context Diagram: IM_Property</a>, <a href="../../../../../EA16/EA4/EA3941.htm">Context Diagram: EM_CodeListExtraction</a>, <a href="../../../../../EA17/EA2/EA1/EA4281.htm">Context Diagram: PF_FeaturePortrayal</a>, <a href="../../../../../EA17/EA2/EA1/EA4285.htm">Context Diagram: PF_PortrayalRule</a>, <a href="../../../../../EA17/EA2/EA1/EA4283.htm">Context Diagram: PF_PortrayalCatalogue</a>, <a href="../../../../../EA17/EA2/EA1/EA4279.htm">Context Diagram: PF_ExternalFunction</a>, <a href="../../../../../EA17/EA2/EA1/EA4277.htm">Context Diagram: PF_AttributeDefinition</a>, <a href="../../../../../EA17/EA2/EA3/EA4308.htm">Context Diagram: PF_PortrayalOperation</a>, <a href="../../../../../EA17/EA2/EA3/EA4306.htm">Context Diagram: PF_Parameter</a>, <a href="../../../../../EA17/EA2/EA3/EA4304.htm">Context Diagram: PF_AttributeValue</a>, <a href="../../../../../EA19/EA2/EA1/EA4/EA4685.htm">Context Diagram: CV_Grid</a>, <a href="../../../../../EA19/EA2/EA1/EA4/EA4709.htm">Context Diagram: CV_SequenceRule</a>, <a href="../../../../../EA21/EA4866.htm">Context Diagram: MS_Viewer_Context</a>, <a href="../../../../../EA21/EA4858.htm">Context Diagram: MS_Keywords</a>, <a href="../../../../../EA24/EA4/EA1/EA5470.htm">Context Diagram: DPS_CoverageInformation</a>, <a href="../../../../../EA24/EA5/EA5482.htm">Context Diagram: DPS_DataCaptureInformation</a>, <a href="../../../../../EA24/EA7/EA5499.htm">Context Diagram: DPS_DeliveryMedium</a>, <a href="../../../../../EA24/EA7/EA5497.htm">Context Diagram: DPS_DeliveryFormat</a>, <a href="../../../../../EA24/EA8/EA5507.htm">Context Diagram: DPS_IdentificationInformation</a>, <a href="../../../../../EA24/EA9/EA5513.htm">Context Diagram: DPS_MaintenanceInformation</a>, <a href="../../../../../EA24/EA12/EA5531.htm">Context Diagram: DPS_ScopeInformation</a>, <a href="../../../../../EA25/EA2/EA3/EA5656.htm">Context Diagram: LanguageSpecificCharacterString</a>, <a href="../../../../../EA25/EA3/EA5750.htm">Fig 57: Context Diagram: LBS_UserID</a>, <a href="../../../../../EA25/EA3/EA5704.htm">Fig 34: Context Diagram: LanguageSpecificCharacterString</a>, <a href="../../../../../EA25/EA3/EA5720.htm">Fig 42: Context Diagram: LBS_EventInfo</a>, <a href="../../../../../EA26/EA1/EA2/EA5842.htm">Context Diagram: AD_Addressee</a>, <a href="../../../../../EA26/EA1/EA2/EA5864.htm">Context Diagram: AD_Street</a>, <a href="../../../../../EA26/EA1/EA2/EA5860.htm">Context Diagram: AD_PostalCode</a>, <a href="../../../../../EA26/EA1/EA2/EA5858.htm">Context Diagram: AD_PhoneNumber</a>, <a href="../../../../../EA26/EA1/EA2/EA5852.htm">Context Diagram: AD_NamedPlace</a>, <a href="../../../../../EA26/EA1/EA2/EA5846.htm">Context Diagram: AD_Building</a>, <a href="../../../../../EA26/EA2/EA1/EA5910.htm">Context Diagram: NS_CostFunction</a>, <a href="../../../../../EA26/EA2/EA2/EA5965.htm">Context Diagram: NS_Instruction</a>, <a href="../../../../../EA26/EA2/EA2/EA5973.htm">Context Diagram: NS_RenderingResponse</a>, <a href="../../../../../EA26/EA2/EA3/EA6009.htm">Context Diagram: NS_AvoidList</a>, <a href="../../../../../EA26/EA3/EA2/EA6089.htm">Context Diagram: NT_Constraint</a>, <a href="../../../../../EA26/EA3/EA2/EA6077.htm">Context Diagram: NT_Advisory</a>, <a href="../../../../../EA26/EA3/EA2/EA6083.htm">Context Diagram: NT_AdvisoryDistance</a>, <a href="../../../../../EA26/EA5/EA1/EA6248.htm">Context Diagram: FD_QueryFeatureCollection</a>, <a href="../../../../../EA26/EA5/EA2/EA6261.htm">Context Diagram: LR_LinearReferenceMethod</a>, <a href="../../../../../EA26/EA5/EA2/EA6271.htm">Context Diagram: LR_ReferenceMarker</a>, <a href="../../../../../EA26/EA5/EA6/EA6341.htm">Context Diagram: TK_Position</a>, <a href="../../../../../EA26/EA5/EA6/EA6337.htm">Context Diagram: TK_MobileSubscriber</a>, <a href="../../../../../EA26/EA5/EA6/EA6351.htm">Context Diagram: TK_TrackingLocationSequence</a>, <a href="../../../../../EA26/EA5/EA6/EA6349.htm">Context Diagram: TK_TrackingLocationMetadata</a>, <a href="../../../../../EA26/EA5/EA6/EA6333.htm">Context Diagram: TK_AccuracyStatement</a>, <a href="../../../../../EA27/EA1/EA6420.htm">Context Diagram: MM_Advisory</a>, <a href="../../../../../EA27/EA3/EA6497.htm">Context Diagram: MN_RenderingResponse</a>, <a href="../../../../../EA27/EA5/EA6548.htm">Context Diagram: MM_ScheduleInfo</a>, <a href="../../../../../EA28/EA1/EA6607.htm">Context Diagram: RE_ProposalManagementInformation</a>, <a href="../../../../../EA28/EA1/EA6623.htm">Context Diagram: RE_SubmittingOrganization</a>, <a href="../../../../../EA28/EA1/EA6613.htm">Context Diagram: RE_Register</a>, <a href="../../../../../EA28/EA1/EA6617.htm">Context Diagram: RE_RegisterOwner</a>, <a href="../../../../../EA28/EA1/EA6629.htm">Context Diagram: RE_Version</a>, <a href="../../../../../EA28/EA1/EA6587.htm">Context Diagram: RE_AlternativeExpression</a>, <a href="../../../../../EA28/EA1/EA6601.htm">Context Diagram: RE_ItemClass</a>, <a href="../../../../../EA28/EA1/EA6605.htm">Context Diagram: RE_Locale</a>, <a href="../../../../../EA28/EA1/EA6609.htm">Context Diagram: RE_Reference</a>, <a href="../../../../../EA28/EA1/EA6615.htm">Context Diagram: RE_RegisterItem</a>, <a href="../../../../../EA28/EA1/EA6593.htm">Context Diagram: RE_ClarificationInformation</a>, <a href="../../../../../EA28/EA1/EA6599.htm">Context Diagram: RE_FieldOfApplication</a>, <a href="../../../../../EA28/EA1/EA6619.htm">Context Diagram: RE_RegisterManager</a>, <a href="../../../../../EA29/EA1/EA6816.htm">Figure D.41 ? Simple Types</a>, <a href="../../../../../EA29/EA1/EA6774.htm">Context Diagram: Coordinates</a>, <a href="../../../../../EA29/EA1/EA6814.htm">Context Diagram: URI</a>, <a href="../../../../../EA29/EA1/EA6768.htm">Context Diagram: Code</a>, <a href="../../../../../EA29/EA1/EA6796.htm">Context Diagram: NameOrNilReason</a>, <a href="../../../../../EA29/EA1/EA6812.htm">Context Diagram: stringOrNilReason</a>, <a href="../../../../../EA29/EA6/EA6886.htm">Context Diagram: Direction</a>, <a href="../../../../../EA29/EA7/EA6893.htm">Context Diagram: AbstractTimeSlice</a>, <a href="../../../../../EA29/EA7/EA6895.htm">Context Diagram: DynamicFeature</a>, <a href="../../../../../EA29/EA13/EA6953.htm">Context Diagram: AbstractGML</a>, <a href="../../../../../EA29/EA17/EA7019.htm">Context Diagram: UnitDefinition</a>, <a href="../../../../../EA34/EA7936.htm">GPLR_RegisterSpecificView</a>, <a href="../../../../../EA34/EA7930.htm">GPLR_ItemView</a>, <a href="../../../../../EA34/EA7926.htm">GPLR_ConversionView</a>, <a href="../../../../../EA34/EA7924.htm">GPLR_CompressionView</a>, <a href="../../../../../EA38/EA2/EA1/EA10277.htm">Context Diagram: GDF_FeatureTheme</a>, <a href="../../../../../EA38/EA2/EA1/EA10275.htm">Context Diagram: GDF_FeatureClass</a>, <a href="../../../../../EA38/EA2/EA1/EA10273.htm">Context Diagram: GDF_FeatureCategory</a>, <a href="../../../../../EA38/EA2/EA1/EA10289.htm">Context Diagram: GDF_SemanticRelationship</a>, <a href="../../../../../EA38/EA2/EA1/EA10261.htm">Context Diagram: GDF_Attribute</a>, <a href="../../../../../EA38/EA2/EA1/EA10271.htm">Context Diagram: GDF_Feature</a>, <a href="../../../../../EA38/EA2/EA1/EA10279.htm">Context Diagram: GDF_Layer</a>, <a href="../../../../../EA38/EA2/EA1/EA10263.htm">Context Diagram: GDF_AttributeType</a>, <a href="../../../../../EA38/EA2/EA1/EA10285.htm">Context Diagram: GDF_RelationshipType</a>, <a href="../../../../../EA38/EA2/EA2/EA10325.htm">Context Diagram: GDF_Edge</a>, <a href="../../../../../EA38/EA2/EA2/EA10331.htm">Context Diagram: GDF_Node</a>, <a href="../../../../../EA38/EA2/EA2/EA10327.htm">Context Diagram: GDF_Face</a>, <a href="../../../../../EA38/EA3/EA1/EA10386.htm">Context Diagram: FE_QueryFeatureCollection</a>, <a href="../../../../../EA38/EA4/EA1/EA10423.htm">Context Diagram: AI_AreaOfInterest</a>, <a href="../../../../../EA38/EA4/EA2/EA10434.htm">Context Diagram: DI_DirectoryResponse</a>, <a href="../../../../../EA38/EA4/EA2/EA10432.htm">Context Diagram: DI_DirectoryRequest</a>, <a href="../../../../../EA38/EA4/EA2/EA10440.htm">Context Diagram: DI_PointOfInterest</a>, <a href="../../../../../EA38/EA6/EA2/EA10761.htm">Context Diagram: PropertyParcel</a></td>
+		</tr>
+	</table>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
+			<li onClick="parent.toggleItem('Operations');" id="OperationsTitle">Operations</li>
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+<div class="ItemBody" id="AttributesTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Attribute</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public <a href="EA1630.htm">CharacterSetCode</a></i><br /><strong>&nbsp;&nbsp;characterSet</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes4906')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes4906" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes4906_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4906_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td>"ISO 10646-2"</td>
+						</tr>
+						<tr id="DetailsImageAttributes4906_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4906_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4906_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4906_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes4906_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>True</td>
+						</tr>
+							<tr id="DetailsImageAttributes4906_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public <a href="EA1629.htm">Character</a></i><br /><strong>&nbsp;&nbsp;elements</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes4907')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes4907" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes4907_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4907_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4907_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4907_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4907_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td>Range:size to size</td>
+						</tr>
+						<tr id="DetailsImageAttributes4907_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes4907_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes4907_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public <a href="../EA4/EA1613.htm">Integer</a></i><br /><strong>&nbsp;&nbsp;maxLength</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes4908')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes4908" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes4908_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4908_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4908_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4908_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4908_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4908_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes4908_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes4908_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public <a href="../EA4/EA1613.htm">Integer</a></i><br /><strong>&nbsp;&nbsp;size</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes4909')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes4909" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes4909_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4909_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4909_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4909_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4909_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes4909_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes4909_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes4909_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					
+						&nbsp;
+						
+				</td>
+			</tr>
+	</table>
+</div>
+<div class="ItemBody" id="OperationsTable">
+	<table border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="100%" class="TableHeading">Operation</td>
+		</tr>
+						<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong><</strong>(					<a href="#" onclick="parent.toggleData('param{E9B226FE-ECD6-413f-8EBE-D4966A15117C}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{E9B226FE-ECD6-413f-8EBE-D4966A15117C}" border="0" />s: <a href="EA1631.htm">CharacterString</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{E9B226FE-ECD6-413f-8EBE-D4966A15117C}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{E9B226FE-ECD6-413f-8EBE-D4966A15117C}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{E9B226FE-ECD6-413f-8EBE-D4966A15117C}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{E9B226FE-ECD6-413f-8EBE-D4966A15117C}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4910" onclick="parent.toggleDiv('detailsDIVOperations4910','DetailsImageOperations4910')" />Details:
+						<div id="detailsDIVOperations4910" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong><=</strong>(					<a href="#" onclick="parent.toggleData('param{8E77B4BD-414B-4442-8CB4-95EB03FD66A5}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{8E77B4BD-414B-4442-8CB4-95EB03FD66A5}" border="0" />s: <a href="EA1631.htm">CharacterString</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{8E77B4BD-414B-4442-8CB4-95EB03FD66A5}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{8E77B4BD-414B-4442-8CB4-95EB03FD66A5}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{8E77B4BD-414B-4442-8CB4-95EB03FD66A5}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{8E77B4BD-414B-4442-8CB4-95EB03FD66A5}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4911" onclick="parent.toggleDiv('detailsDIVOperations4911','DetailsImageOperations4911')" />Details:
+						<div id="detailsDIVOperations4911" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong><></strong>(					<a href="#" onclick="parent.toggleData('param{96A0BC56-34FF-4a24-B035-93AA8BB557D0}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{96A0BC56-34FF-4a24-B035-93AA8BB557D0}" border="0" />s: <a href="EA1631.htm">CharacterString</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{96A0BC56-34FF-4a24-B035-93AA8BB557D0}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{96A0BC56-34FF-4a24-B035-93AA8BB557D0}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{96A0BC56-34FF-4a24-B035-93AA8BB557D0}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{96A0BC56-34FF-4a24-B035-93AA8BB557D0}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4912" onclick="parent.toggleDiv('detailsDIVOperations4912','DetailsImageOperations4912')" />Details:
+						<div id="detailsDIVOperations4912" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>=</strong>(					<a href="#" onclick="parent.toggleData('param{2F41069B-9D00-45cf-8A98-452D1093D807}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{2F41069B-9D00-45cf-8A98-452D1093D807}" border="0" />s: <a href="EA1631.htm">CharacterString</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{2F41069B-9D00-45cf-8A98-452D1093D807}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{2F41069B-9D00-45cf-8A98-452D1093D807}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{2F41069B-9D00-45cf-8A98-452D1093D807}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{2F41069B-9D00-45cf-8A98-452D1093D807}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4913" onclick="parent.toggleDiv('detailsDIVOperations4913','DetailsImageOperations4913')" />Details:
+						<div id="detailsDIVOperations4913" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>></strong>(					<a href="#" onclick="parent.toggleData('param{84B81357-DD0E-4226-8C75-97DB529A875B}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{84B81357-DD0E-4226-8C75-97DB529A875B}" border="0" />s: <a href="EA1631.htm">CharacterString</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{84B81357-DD0E-4226-8C75-97DB529A875B}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{84B81357-DD0E-4226-8C75-97DB529A875B}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{84B81357-DD0E-4226-8C75-97DB529A875B}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{84B81357-DD0E-4226-8C75-97DB529A875B}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4914" onclick="parent.toggleDiv('detailsDIVOperations4914','DetailsImageOperations4914')" />Details:
+						<div id="detailsDIVOperations4914" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>>=</strong>(					<a href="#" onclick="parent.toggleData('param{3AD0EA60-CF26-44f7-8514-CA6493A664ED}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{3AD0EA60-CF26-44f7-8514-CA6493A664ED}" border="0" />s: <a href="EA1631.htm">CharacterString</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{3AD0EA60-CF26-44f7-8514-CA6493A664ED}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{3AD0EA60-CF26-44f7-8514-CA6493A664ED}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{3AD0EA60-CF26-44f7-8514-CA6493A664ED}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{3AD0EA60-CF26-44f7-8514-CA6493A664ED}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4915" onclick="parent.toggleDiv('detailsDIVOperations4915','DetailsImageOperations4915')" />Details:
+						<div id="detailsDIVOperations4915" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>isNull</strong>():<a href="../EA6/EA1649.htm">Boolean</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4916" onclick="parent.toggleDiv('detailsDIVOperations4916','DetailsImageOperations4916')" />Details:
+						<div id="detailsDIVOperations4916" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>subString</strong>(					<a href="#" onclick="parent.toggleData('param{52A6C20E-1E66-4035-99AE-C91C9B6F0AD9}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{52A6C20E-1E66-4035-99AE-C91C9B6F0AD9}" border="0" />lower: <a href="../EA4/EA1613.htm">Integer</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{52A6C20E-1E66-4035-99AE-C91C9B6F0AD9}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{52A6C20E-1E66-4035-99AE-C91C9B6F0AD9}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{52A6C20E-1E66-4035-99AE-C91C9B6F0AD9}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{52A6C20E-1E66-4035-99AE-C91C9B6F0AD9}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+					<a href="#" onclick="parent.toggleData('param{390D08F0-EFBD-41f4-9CA8-52016B697DA3}')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="param{390D08F0-EFBD-41f4-9CA8-52016B697DA3}" border="0" />upper: <a href="../EA4/EA1613.htm">Integer</a></a>, 
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+						<tr id="param{390D08F0-EFBD-41f4-9CA8-52016B697DA3}00" style="display: none;">
+							<td width="50"><strong>Default:</strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{390D08F0-EFBD-41f4-9CA8-52016B697DA3}01" style="display: none;">
+							<td width="50"><strong>Kind:</strong></td>
+							<td>inout</td>
+						</tr>
+						<tr id="param{390D08F0-EFBD-41f4-9CA8-52016B697DA3}02" style="display: none;">
+							<td width="50"><strong>Stereotype: </strong></td>
+							<td></td>
+						</tr>
+						<tr id="param{390D08F0-EFBD-41f4-9CA8-52016B697DA3}03" style="display: none;">
+							<td width="50"></td>
+							<td></td>
+						</tr>
+					</table>
+):<a href="EA1631.htm">CharacterString</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4917" onclick="parent.toggleDiv('detailsDIVOperations4917','DetailsImageOperations4917')" />Details:
+						<div id="detailsDIVOperations4917" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>toLower</strong>():<a href="EA1631.htm">CharacterString</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4918" onclick="parent.toggleDiv('detailsDIVOperations4918','DetailsImageOperations4918')" />Details:
+						<div id="detailsDIVOperations4918" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public</i><br />
+					<strong>toUpper</strong>():<a href="EA1631.htm">CharacterString</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations4919" onclick="parent.toggleDiv('detailsDIVOperations4919','DetailsImageOperations4919')" />Details:
+						<div id="detailsDIVOperations4919" class="DetailsDiv" >
+					<i>sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+
+		</table>
+</div><div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">persistence</td>
+				<td width="50%" class="TableRow" valign="top">persistent</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario4920" onclick="parent.toggleDiv('detailsDIVScenario4920','DetailsImageScenario4920')" />Details:
+						<div id="detailsDIVScenario4920" class="DetailsDiv" >
+						&nbsp;
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isFinalSpecialization:</td>
+				<td width="70%" class="TableRow">0</td>
+			</tr>
+
+
+			</table>
+		</div>		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA31/EA4/EA7279.htm">Anchor</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Realization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA29/EA1/EA6828.htm">«type» Coordinates</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA31/EA4/EA7281.htm">MimeFileType</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Realization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA29/EA1/EA6848.htm">«type» URI</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA31/EA2/EA7240.htm">PT_FreeText</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Realization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA31/EA4/EA7280.htm">FileName</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Realization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA1632.htm">«type» OCL</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA25/EA3/EA5759.htm">«type» LanguageSpecificCharacterString</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA31/EA2/EA7239.htm">LocalisedCharacterString</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Realization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../EA29/EA1/EA6825.htm">«type» Code</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA1633.htm">«type» Sequence<Character></a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">To</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

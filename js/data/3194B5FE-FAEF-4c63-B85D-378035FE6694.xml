@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.5.17.1.3.1:3", "", "Portrayal Function - Conditional", "EARoot/EA5/EA17/EA1/EA3/EA1/EA4104.htm", "175.png", "13129", "0", "", "Logical diagram0","{5E3C45E2-A1A1-4190-B3B2-A8CFD10E0B8B}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.1:4", "", "«type» PF_ConditionalFeaturePortrayalFunction", "EARoot/EA5/EA17/EA1/EA3/EA1/EA4107.htm", "5.png", "E32863", "0", "", "Class0","{BCD3AACA-F05A-4c01-BB5D-E586CC19AF35}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.1:5", "", "«type» PF_SymbolMappingCondition", "EARoot/EA5/EA17/EA1/EA3/EA1/EA4108.htm", "5.png", "E32864", "0", "", "Class0","{D428E02F-6F2E-43fe-B803-55D744037412}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.1:1", "", "PF_ConditionalFeaturePortrayalFunction", "EARoot/EA5/EA17/EA1/EA3/EA1/EA4100.htm", "175.png", "13130", "E32863", "", "Logical diagram0","{13080076-C0B5-42cb-AE31-DD7B923ED3D3}");
+tocTab[tocTab.length] = new Array("0.5.17.1.3.1:2", "", "PF_SymbolMappingCondition", "EARoot/EA5/EA17/EA1/EA3/EA1/EA4102.htm", "175.png", "13131", "E32864", "", "Logical diagram0","{92D11491-1352-4a27-8411-587C5474DC36}");

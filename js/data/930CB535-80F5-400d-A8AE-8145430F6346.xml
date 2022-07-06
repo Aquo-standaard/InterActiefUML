@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.1.4.9:1", "", "Digital Terrain Model", "EARoot/EA7/EA1/EA4/EA9/EA11794.htm", "175.png", "14818", "0", "", "Logical diagram0","{9835D823-9E56-46c4-A9EB-BCC18A404909}");
+tocTab[tocTab.length] = new Array("0.7.1.4.9:2", "", "«featureType» _ReliefComponent", "EARoot/EA7/EA1/EA4/EA9/EA11797.htm", "5.png", "E36816", "0", "", "Class0","{35E58DCD-AC21-40bc-98E8-35104276E756}");
+tocTab[tocTab.length] = new Array("0.7.1.4.9:3", "", "«featureType» BreaklineRelief", "EARoot/EA7/EA1/EA4/EA9/EA11798.htm", "5.png", "E36815", "0", "", "Class0","{0CAD9A44-B1D1-43af-92A7-F8E7B034DA1E}");
+tocTab[tocTab.length] = new Array("0.7.1.4.9:4", "", "«featureType» MassPointRelief", "EARoot/EA7/EA1/EA4/EA9/EA11799.htm", "5.png", "E36820", "0", "", "Class0","{B97822E4-5380-435c-A06F-B8F61D016B6E}");
+tocTab[tocTab.length] = new Array("0.7.1.4.9:5", "", "«featureType» RasterRelief", "EARoot/EA7/EA1/EA4/EA9/EA11800.htm", "5.png", "E36818", "0", "", "Class0","{7D37AA61-4BC9-4215-9882-26D99B3D84B3}");
+tocTab[tocTab.length] = new Array("0.7.1.4.9:6", "", "«featureType» ReliefFeature", "EARoot/EA7/EA1/EA4/EA9/EA11801.htm", "5.png", "E36817", "0", "", "Class0","{428A58C5-C0E7-4212-B7CD-73F68BE7873E}");
+tocTab[tocTab.length] = new Array("0.7.1.4.9:7", "", "«featureType» TINRelief", "EARoot/EA7/EA1/EA4/EA9/EA11802.htm", "5.png", "E36819", "0", "", "Class0","{9F2C1D68-BCCF-470e-AC9B-0AE0F5A92907}");

@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:1", "", "Framework of data quality concepts", "EARoot/EA5/EA41/EA1/EA1/EA3/EA10994.htm", "187.png", "14712", "0", "", "InteractionOverview diagram0","{DDB709EF-F6B0-44da-8238-FA9565C10B0E}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:2", "", "Data producer", "EARoot/EA5/EA41/EA1/EA1/EA3/EA10997.htm", "6.png", "E36305", "0", "", "Actor0","{1D5BD83B-5182-45b0-9DD4-85CB8268885C}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:3", "", "«Stanli» Data Quality", "EARoot/EA5/EA41/EA1/EA1/EA3/EA10998.htm", "25.png", "E36308", "0", "", "Object0","{104A3BC7-DCA4-46eb-8AFC-5895BCDA941B}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:4", "", "«Stanli» Data Quality", "EARoot/EA5/EA41/EA1/EA1/EA3/EA10999.htm", "25.png", "E36311", "0", "", "Object0","{44667D7D-662D-4072-8002-E4643A5DF75A}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:5", "", "Data user", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11000.htm", "6.png", "E36306", "0", "", "Actor0","{EF173D92-2F91-499c-B0B5-9C1E656E83DD}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:6", "", "«Stanli» Dataset", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11001.htm", "25.png", "E36316", "0", "", "Object0","{F61F1C32-B6E4-4d3a-872A-02C20A768CA5}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:7", "", "«Stanli» Product Specification", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11002.htm", "25.png", "E36312", "0", "", "Object0","{50BCED7A-67EA-4cba-8248-AF8BD5FFCE48}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:8", "", "«Stanli» Quality Conformance", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11003.htm", "25.png", "E36309", "0", "", "Object0","{2D2B2EA8-99A7-4d5f-AD2F-602FD1569DA9}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:9", "", "«Stanli» Quality Evaluation", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11004.htm", "25.png", "E36317", "0", "", "Object0","{F76FD9FC-D368-49fd-929D-5DDD22D88EE1}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:10", "", "«Cloud» Real World", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11005.htm", "25.png", "E36307", "0", "", "Object0","{00C83193-C3F4-4dd4-BE93-9A63C6E0733D}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:11", "", "«Stanli» User Requirements", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11006.htm", "25.png", "E36310", "0", "", "Object0","{370240E2-BC4D-477d-822B-9E91C5E58CD4}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:12", "", "«Stanli» Universe as discourse B", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11007.htm", "25.png", "E36313", "E36307", "", "Object0","{55325206-F71D-459c-A4A4-C3A8E3A0EC6A}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:13", "", "«Stanli» Universe of discourse A", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11008.htm", "25.png", "E36314", "E36307", "", "Object0","{64AE8BA1-CF28-4758-BEA1-FE38469C0CE9}");
+tocTab[tocTab.length] = new Array("0.5.41.1.1.3:14", "", "«Stanli» Universe of discourse C", "EARoot/EA5/EA41/EA1/EA1/EA3/EA11009.htm", "25.png", "E36315", "E36307", "", "Object0","{E8E5B06E-0BA6-4dce-8798-36E165872240}");
