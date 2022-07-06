@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.41.1.1.1", "", "Conceptual model of quality for geographic data", "", "4.png", "", "", "{FEF3541F-D6C3-4c89-B306-DD140160C2C4}", "Package");
-tocTab[tocTab.length] = new Array("0.4.41.1.1.2", "", "Evaluating and reporting data quality results", "", "4.png", "", "", "{5E15BADB-BDE2-486b-97B8-912D6578E0B2}", "Package");
-tocTab[tocTab.length] = new Array("0.4.41.1.1.3", "", "Framework of data quality concepts", "", "4.png", "", "", "{08D54C7D-DD45-41de-A8BE-EDF648337BD4}", "Package");
-tocTab[tocTab.length] = new Array("0.4.41.1.1.4", "", "Hierarchical levels of quality reporting", "", "4.png", "", "", "{DD0EEF60-5FE3-45a5-8313-8A350DD1C431}", "Package");

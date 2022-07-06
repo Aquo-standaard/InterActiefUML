@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.12.1", "", "Gazetteer", "", "4.png", "", "", "{92F81074-E2EA-41e3-A0D2-24A3B686DB9D}", "Package");
-tocTab[tocTab.length] = new Array("0.4.12.2", "", "ReferenceSystem by Identifier", "", "4.png", "", "", "{21F00120-D114-44b0-8253-512CDAA3E260}", "Package");

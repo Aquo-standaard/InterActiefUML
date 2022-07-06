@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.43.1.2.1", "", "samplingFeature", "", "4.png", "", "", "{9662A3AB-3E73-4444-8FFB-45B61FCF9BCF}", "Package");
-tocTab[tocTab.length] = new Array("0.4.43.1.2.2", "", "spatialSamplingFeature", "", "4.png", "", "", "{79D1CA88-6698-42e3-B59E-3369224EB8BE}", "Package");
-tocTab[tocTab.length] = new Array("0.4.43.1.2.3", "", "samplingPoint", "", "4.png", "", "", "{725E2248-8DC1-47b2-9260-59CD94846AF3}", "Package");
-tocTab[tocTab.length] = new Array("0.4.43.1.2.4", "", "samplingCurve", "", "4.png", "", "", "{F21707F4-735E-412f-88B9-1A33437C49EE}", "Package");
-tocTab[tocTab.length] = new Array("0.4.43.1.2.5", "", "samplingSurface", "", "4.png", "", "", "{0350FC90-15A2-4500-9452-C87C44861A86}", "Package");
-tocTab[tocTab.length] = new Array("0.4.43.1.2.6", "", "samplingSolid", "", "4.png", "", "", "{32D8F530-A03E-4543-8637-744261E1F20B}", "Package");
-tocTab[tocTab.length] = new Array("0.4.43.1.2.7", "", "specimen", "", "4.png", "", "", "{9BD9C449-5643-4737-8B47-9B4033BB10E5}", "Package");

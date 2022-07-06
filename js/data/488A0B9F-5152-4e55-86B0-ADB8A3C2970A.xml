@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.26.5.1", "", "Feature Data Model", "", "4.png", "", "", "{95CBF79C-2F60-404a-A6EC-7E0DD93B25B6}", "Package");
-tocTab[tocTab.length] = new Array("0.4.26.5.2", "", "Linear Reference Systems", "", "4.png", "", "", "{F512AD09-0BAA-4ef8-95AC-E4D4DF2DA9CB}", "Package");
-tocTab[tocTab.length] = new Array("0.4.26.5.3", "", "Location Transformation", "", "4.png", "", "", "{1A372870-3648-47be-AA48-9983ECF685EB}", "Package");
-tocTab[tocTab.length] = new Array("0.4.26.5.4", "", "Measured Coordinates", "", "4.png", "", "", "{E4831A92-EA08-4f97-91A8-25534BF1D50D}", "Package");
-tocTab[tocTab.length] = new Array("0.4.26.5.5", "", "Point Estimates", "", "4.png", "", "", "{A45D2ED1-F7E5-4c3a-BEE3-3EF4B832C782}", "Package");
-tocTab[tocTab.length] = new Array("0.4.26.5.6", "", "Tracking Service", "", "4.png", "", "", "{ECD6A428-25F8-49da-8EED-621E18F4C02C}", "Package");

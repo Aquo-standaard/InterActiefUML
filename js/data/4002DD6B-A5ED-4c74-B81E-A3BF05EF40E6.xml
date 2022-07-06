@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.6.1.4.2:1", "", "Bridge", "EARoot/EA6/EA1/EA4/EA2/EA870.htm", "175.png", "7010", "0", "", "Logical diagram0","{6200E86D-AB1C-43a9-8E73-77A29F3E13A9}");
-tocTab[tocTab.length] = new Array("0.6.1.4.2:2", "", "«featureType» _AbstractBridge", "EARoot/EA6/EA1/EA4/EA2/EA873.htm", "5.png", "E15938", "0", "", "Class0","{49928AB3-E842-4d22-81F3-6CC7CA068333}");
-tocTab[tocTab.length] = new Array("0.6.1.4.2:3", "", "«featureType» Bridge", "EARoot/EA6/EA1/EA4/EA2/EA874.htm", "5.png", "E15937", "0", "", "Class0","{226A7BA0-826E-4df0-8E37-008823F31FA7}");
-tocTab[tocTab.length] = new Array("0.6.1.4.2:4", "", "«featureType» BridgeConstructionElement", "EARoot/EA6/EA1/EA4/EA2/EA875.htm", "5.png", "E15939", "0", "", "Class0","{6CA0DB9B-6190-431a-BC9B-48815A021FEA}");
-tocTab[tocTab.length] = new Array("0.6.1.4.2:5", "", "«featureType» BridgePart", "EARoot/EA6/EA1/EA4/EA2/EA876.htm", "5.png", "E15940", "0", "", "Class0","{FF0C25FF-6CE3-4437-9054-06A4A79E56DA}");

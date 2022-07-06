@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.23.1", "1", "ISO 19130:2010 Sensor Data", "", "4.png", "", "", "{E65B7D99-D6FF-44df-809F-6CB7FB9C0E90}", "Package");
-tocTab[tocTab.length] = new Array("0.4.23.2", "1", "ISO 19130 Sensor Data", "", "4.png", "", "", "{004D9096-9683-4c1a-94A5-0B5F5ABEAF52}", "Package");

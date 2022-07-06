@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.17.1", "1", "ISO 19117 Portrayal [revision]", "", "4.png", "", "", "{8606B6C3-6635-4688-A5D6-1562D286AC28}", "Package");
-tocTab[tocTab.length] = new Array("0.4.17.2", "1", "ISO 19117:2005 Portrayal", "", "4.png", "", "", "{29500EFE-647A-469b-81F2-6B007D3EA0F7}", "Package");

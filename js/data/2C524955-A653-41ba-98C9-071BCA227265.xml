@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.6.1.4.8:1", "", "LandUse", "EARoot/EA6/EA1/EA4/EA8/EA951.htm", "175.png", "7017", "0", "", "Logical diagram0","{BA2B054E-FCED-48cf-8C9F-6B6B6CFB54A5}");
-tocTab[tocTab.length] = new Array("0.6.1.4.8:2", "", "«featureType» LandUse", "EARoot/EA6/EA1/EA4/EA8/EA954.htm", "5.png", "E15998", "0", "", "Class0","{1AB9D6CA-CAC5-4cec-9CE1-7C51F4761DF3}");
-tocTab[tocTab.length] = new Array("0.6.1.4.8:3", "", "«codeList» LandUseClassType", "EARoot/EA6/EA1/EA4/EA8/EA955.htm", "247.png", "E16000", "0", "", "Enumeration0","{3BEED9AA-5DC7-4032-AEC3-7141440909F2}");
-tocTab[tocTab.length] = new Array("0.6.1.4.8:4", "", "«codeList» LandUseFunctionType", "EARoot/EA6/EA1/EA4/EA8/EA956.htm", "247.png", "E16001", "0", "", "Enumeration0","{A0AEFF3F-6B53-403f-8D98-C91E908AD594}");
-tocTab[tocTab.length] = new Array("0.6.1.4.8:5", "", "«codeList» LandUseUsageType", "EARoot/EA6/EA1/EA4/EA8/EA957.htm", "247.png", "E15999", "0", "", "Enumeration0","{2434C5C1-A7D3-4889-A9D8-40DE4C497CE4}");

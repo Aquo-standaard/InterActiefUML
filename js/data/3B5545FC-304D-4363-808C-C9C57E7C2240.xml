@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.38.1", "", "Extended Metadata from 19115", "", "4.png", "", "", "{3F374ABB-F29A-4aed-A7B0-72A9D5AAA7BE}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.2", "1", "ISO GDF", "", "4.png", "", "", "{799F93B3-62BB-41b9-9F4E-F0C509F8E5BA}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.3", "1", "Open GIS Consortium", "", "4.png", "", "", "{9DBD2DEE-1AD6-4269-AF39-DFE1C7835422}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.4", "1", "Other Location Services", "", "4.png", "", "", "{D42104A4-8AFE-45ba-A6D7-6AA5C9C8F014}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.5", "1", "Spatial Examples from ISO 19107", "", "4.png", "", "", "{C2FD47DB-3DF5-4201-98F1-8970B319144D}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.6", "1", "Xamples", "", "4.png", "", "", "{B726BC2C-5CCF-49a8-94BE-7D487ACB722A}", "Package");

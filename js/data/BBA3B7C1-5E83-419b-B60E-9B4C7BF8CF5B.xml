@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.39.1.1.1", "", "AccessibilityTypes", "", "4.png", "", "", "{2F0E8846-B5CF-4e80-AB13-9867BE5FBB94}", "Package");
-tocTab[tocTab.length] = new Array("0.4.39.1.1.2", "", "DeviationTypes", "", "4.png", "", "", "{06DCD915-8A86-4919-BE14-7445BF28C84E}", "Package");
-tocTab[tocTab.length] = new Array("0.4.39.1.1.3", "", "FacilityTypes", "", "4.png", "", "", "{A0F7948E-94BE-4f53-9EA8-50124A56A71D}", "Package");
-tocTab[tocTab.length] = new Array("0.4.39.1.1.4", "", "RestrictionTypes", "", "4.png", "", "", "{7FBBABF8-8890-42d9-9EA8-D376D5854186}", "Package");
-tocTab[tocTab.length] = new Array("0.4.39.1.1.5", "", "ServiceTypes", "", "4.png", "", "", "{89201030-BDD8-4e2c-944B-CB2C8D247449}", "Package");

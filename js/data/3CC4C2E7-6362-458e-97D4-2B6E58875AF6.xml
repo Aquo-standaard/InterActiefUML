@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.18.1", "", "Service Metadata", "", "4.png", "", "", "{4A91FCF3-D25A-4870-8F88-F1E6E31774D2}", "Package");
-tocTab[tocTab.length] = new Array("0.4.18.2", "", "Service Model", "", "4.png", "", "", "{61DB5DDD-66B3-47a7-801E-D24236B6D9EA}", "Package");

@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.25.2.1", "", "Basic Services", "", "4.png", "", "", "{71B12189-417C-4778-9620-F2AC2B0D8BDE}", "Package");
-tocTab[tocTab.length] = new Array("0.4.25.2.2", "", "Digital Rights Management", "", "4.png", "", "", "{8F209F58-104B-42d4-BA31-8BF67DAD0FED}", "Package");
-tocTab[tocTab.length] = new Array("0.4.25.2.3", "", "Geomatics Services", "", "4.png", "", "", "{4B7E4E41-E9E9-4b1c-8CBE-E8A03A9648A9}", "Package");
-tocTab[tocTab.length] = new Array("0.4.25.2.4", "", "Information Services", "", "4.png", "", "", "{A0168C8A-0014-4ecb-A6E3-9C570FC7DD73}", "Package");
-tocTab[tocTab.length] = new Array("0.4.25.2.5", "", "System Management", "", "4.png", "", "", "{8DF770A1-1468-424e-825D-AAFCF47CED83}", "Package");

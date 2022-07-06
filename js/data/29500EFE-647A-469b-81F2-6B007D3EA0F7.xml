@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.17.2.1", "", "Portrayal  Catalogue", "", "4.png", "", "", "{00EC0277-E3AF-43ac-B84F-D6E6992E2691}", "Package");
-tocTab[tocTab.length] = new Array("0.4.17.2.2", "", "Portrayal Service", "", "4.png", "", "", "{E8C61CDE-B998-4db0-ADC1-52B5F614E137}", "Package");
-tocTab[tocTab.length] = new Array("0.4.17.2.3", "", "Portrayal Specification", "", "4.png", "", "", "{E732E810-D696-4220-8100-7E1936C08FED}", "Package");

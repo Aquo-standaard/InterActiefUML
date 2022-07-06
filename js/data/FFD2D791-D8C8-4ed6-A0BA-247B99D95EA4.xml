@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.2.1", "1", "«Domein» Codelijsten AquoDS", "EARoot/EA1/EA2/EA1/EA22.htm", "4.png", "", "", "{52636F70-2C13-47c3-867A-AAEAC2403FD2}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.2", "1", "«Domein» IMWA Kern", "EARoot/EA1/EA2/EA2/EA300.htm", "4.png", "", "", "{A26075E0-8883-443d-A879-E48789355F8A}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.3", "1", "«Domein» IMMetingen", "EARoot/EA1/EA2/EA3/EA339.htm", "4.png", "", "", "{EAA1A91B-AA0F-4f02-9DCB-688BBC215E33}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.4", "1", "«Domein» IMWA Watersysteem", "EARoot/EA1/EA2/EA4/EA400.htm", "4.png", "", "", "{4413A941-575C-4ba9-A2E4-60D313BB898E}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.5", "1", "«Domein» IMWA Waterveiligheid", "EARoot/EA1/EA2/EA5/EA441.htm", "4.png", "", "", "{5C61A874-2808-4eec-89E0-D61307EA2CE2}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.6", "1", "«Domein» IMWA Kunstwerken", "EARoot/EA1/EA2/EA6/EA516.htm", "4.png", "", "", "{9F283336-F61E-475d-838B-B0E5BADFEC7C}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.7", "1", "«Domein» IMWA Profielen", "EARoot/EA1/EA2/EA7/EA541.htm", "4.png", "", "", "{08BF3EF5-CD77-4135-8135-4DAF1A3D7953}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.8", "1", "«Domein» IMWA Normen", "EARoot/EA1/EA2/EA8/EA551.htm", "4.png", "", "", "{ECB8DB51-BD58-4dfc-999A-16963CFA0484}", "Package");

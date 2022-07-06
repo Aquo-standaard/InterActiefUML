@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.38.5.1.1", "1", " Topology Simple", "", "4.png", "", "", "{15F5F5BC-2422-4237-9EA8-E5AA33FB18F2}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.5.1.2", "", "MiniTopo Abstract Profile", "", "4.png", "", "", "{61A18697-57D3-4437-A345-E1CC569A5C1A}", "Package");
-tocTab[tocTab.length] = new Array("0.4.38.5.1.3", "", "Simplicial Topology", "", "4.png", "", "", "{A10FB080-7B0D-47d0-981F-457E47736F33}", "Package");
